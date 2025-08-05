@@ -4,7 +4,7 @@
     "title": "Ufq",
     "author": "O'tkir Hoshimov",
     "image": "/books/ufq.jpg",
-    "age_category": "16+",
+    "age_category": "21+",
     "genre": "Roman"
   },
   {
@@ -12,7 +12,7 @@
     "title": "O'tkan kunlar",
     "author": "Abdulla Qodiriy",
     "image": "/books/otgan_kunlar.jpg",
-    "age_category": "16+",
+    "age_category": "16-20",
     "genre": "Roman"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Sariq devni minib",
     "author": "Xudoyberdi To'xtaboyev",
     "image": "/books/sariq_dev.jpg",
-    "age_category": "7-15",
+    "age_category": "7-10",
     "genre": "Sarguzasht"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Shum bola",
     "author": "G'afur G'ulom",
     "image": "/books/shum_bola.jpg",
-    "age_category": "7-15",
+    "age_category": "11-15",
     "genre": "Komediya"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Alvido, bolalik",
     "author": "Tohir Malik",
     "image": "/books/alvido_bolalik.jpg",
-    "age_category": "16+",
+    "age_category": "16-20",
     "genre": "Drama"
   }
 ]

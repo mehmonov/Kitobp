@@ -1,32 +1,46 @@
 <template>
   <div class="bg-black text-white min-h-screen p-4 sm:p-8">
-    <h1 class="text-3xl sm:text-5xl font-bold mb-8 sm:mb-12 text-center">Siz uchun tavsiyalar</h1>
+    <!-- Orqaga tugma -->
+    <router-link to="/" class="inline-block mb-6">
+      <button class="text-gray-400 hover:text-white">← Orqaga</button>
+    </router-link>
+
+    <h1 class="text-3xl sm:text-4xl font-bold mb-8 text-center">Kitob Tavsiyalari</h1>
 
     <!-- Filtrlar -->
-    <div class="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6 mb-8 sm:mb-12">
+    <div class="flex flex-col sm:flex-row justify-center items-center gap-4 mb-8">
       <!-- Yosh tanlash -->
-      <div class="relative w-full sm:w-auto">
-        <select v-model="selectedAge" class="bg-gray-800 text-white font-bold py-3 px-6 rounded-full appearance-none focus:outline-none focus:ring-2 focus:ring-white w-full">
-          <option :value="null" disabled>Yoshingizni tanlang</option>
-          <option value="7-10">7-10 yosh</option>
-          <option value="11-15">11-15 yosh</option>
-          <option value="16-20">16-20 yosh</option>
-          <option value="21+">21+ yosh</option>
-        </select>
-      </div>
+      <select 
+        v-model="selectedAge" 
+        class="bg-gray-800 text-white py-3 px-6 rounded-full focus:outline-none focus:ring-2 focus:ring-white w-full sm:w-auto"
+      >
+        <option value="">Barcha yoshlar</option>
+        <option value="11-15">13-15 yosh</option>
+        <option value="16-20">16+ yosh</option>
+      </select>
 
-      <!-- Janrlar filteri -->
-      <div class="relative w-full sm:w-auto">
-        <select v-model="selectedGenre" class="bg-gray-800 text-white font-bold py-3 px-6 rounded-full appearance-none focus:outline-none focus:ring-2 focus:ring-white w-full">
-          <option value="">Barcha janrlar</option>
-          <option v-for="genre in uniqueGenres" :key="genre" :value="genre">{{ genre }}</option>
-        </select>
-      </div>
+      <!-- Janr tanlash -->
+      <select 
+        v-model="selectedGenre" 
+        class="bg-gray-800 text-white py-3 px-6 rounded-full focus:outline-none focus:ring-2 focus:ring-white w-full sm:w-auto"
+      >
+        <option value="">Barcha janrlar</option>
+        <option value="Jahon adabiyoti">Jahon adabiyoti</option>
+        <option value="O'zbek adabiyoti">O'zbek adabiyoti</option>
+      </select>
     </div>
 
+    <!-- Natijalar soni -->
+    <p class="text-center text-gray-400 mb-6">{{ filteredBooks.length }} ta kitob topildi</p>
+
     <!-- Kitoblar ro'yxati -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 sm:gap-8">
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 sm:gap-6">
       <BookCard v-for="book in filteredBooks" :key="book.id" :book="book" />
+    </div>
+
+    <!-- Bo'sh holat -->
+    <div v-if="filteredBooks.length === 0" class="text-center text-gray-400 py-12">
+      Kitob topilmadi. Filtrlarni o'zgartiring.
     </div>
   </div>
 </template>
@@ -42,16 +56,12 @@ export default {
   },
   setup() {
     const books = ref([]);
-    const selectedAge = ref(null);
+    const selectedAge = ref('');
     const selectedGenre = ref('');
 
     onMounted(async () => {
       const response = await fetch('/books.json');
       books.value = await response.json();
-    });
-
-    const uniqueGenres = computed(() => {
-      return [...new Set(books.value.map(book => book.genre))];
     });
 
     const filteredBooks = computed(() => {
@@ -72,7 +82,6 @@ export default {
       books,
       selectedAge,
       selectedGenre,
-      uniqueGenres,
       filteredBooks,
     };
   },

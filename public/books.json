@@ -1,42 +1,392 @@
 [
   {
     "id": 1,
-    "title": "Ufq",
-    "author": "O'tkir Hoshimov",
-    "image": "/books/ufq.jpg",
-    "age_category": "21+",
-    "genre": "Roman"
+    "title": "Kichkina Shahzoda",
+    "author": "Antuan de Sent-Ekzyuperi",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "api_title": "Kichkina shahzoda",
+    "description": "",
+    "slug": "kichkina-shahzoda",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/01/kichkina_shahzoda.png",
+    "local_image": "/books/1.png"
   },
   {
     "id": 2,
-    "title": "O'tkan kunlar",
-    "author": "Abdulla Qodiriy",
-    "image": "/books/otgan_kunlar.jpg",
-    "age_category": "16-20",
-    "genre": "Roman"
+    "title": "Tom Soyerning sarguzashtlari",
+    "author": "Mark Tven",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "api_title": "Tom Soyerning yangi sarguzashtlari",
+    "description": "",
+    "slug": "tom-soyerning-yangi-sarguzashtlari",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/07/IMG_20240707_181000_464.jpg",
+    "local_image": "/books/2.jpg"
   },
   {
     "id": 3,
-    "title": "Sariq devni minib",
-    "author": "Xudoyberdi To'xtaboyev",
-    "image": "/books/sariq_dev.jpg",
-    "age_category": "7-10",
-    "genre": "Sarguzasht"
+    "title": "Heklberri Finning sarguzashtlari",
+    "author": "Mark Tven",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
   },
   {
     "id": 4,
-    "title": "Shum bola",
-    "author": "G'afur G'ulom",
-    "image": "/books/shum_bola.jpg",
+    "title": "Robinzon Kruzo",
+    "author": "Daniel Defo",
     "age_category": "11-15",
-    "genre": "Komediya"
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "api_title": "Robinzon Kruzoning hayoti va ajoyib sarguzashtlari",
+    "description": "",
+    "slug": "robinzon-kruzoning-hayoti-va-ajoyib-sarguzashtlari",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Daniel_Defo_Robinzon._Kruzoning_hayoti_va_ajoyib_sarguzashtlari.jpg"
   },
   {
     "id": 5,
-    "title": "Alvido, bolalik",
-    "author": "Tohir Malik",
-    "image": "/books/alvido_bolalik.jpg",
+    "title": "Oq Fang",
+    "author": "Jek London",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 6,
+    "title": "Hayotga muhabbat",
+    "author": "Jek London",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "api_title": "Hayotga muhabbat",
+    "description": "",
+    "slug": "hayotga-muhabbat",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/Jek_London._Hayotga_muhabbat.jpg",
+    "local_image": "/books/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Xazina oroli",
+    "author": "Robert L. Stivenson",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 8,
+    "title": "Halqa Egasi",
+    "author": "J. R. R. Tolkien",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 9,
+    "title": "Ochlik o'yinlari",
+    "author": "Suzanne Collins",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 10,
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 11,
+    "title": "Alisa mo'jizalar mamlakatida",
+    "author": "Lewis Carroll",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "api_title": "Alisa moʻjizalar mamlakatida",
+    "description": "",
+    "slug": "alisa-mo-jizalar-mamlakatida",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/04/Lyuis_Kerrol._Alisa_mo%CA%BBjizalar_mamlakatida_ertak.jpg",
+    "local_image": "/books/11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Oliver Tvistning boshidan kechirganlari",
+    "author": "Charles Dickens",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "api_title": "Oliver Tvistning boshidan kechirganlari",
+    "description": "",
+    "slug": "oliver-tvistning-boshidan-kechirganlari",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Charlz_Dikkens._oliver_tvist_boshdan_kechirganlar.jpg",
+    "local_image": "/books/12.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Uch mushketyor",
+    "author": "Alexandre Dumas",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "api_title": "Uch mushketyor",
+    "description": "",
+    "slug": "uch-mushketyor",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/05/Aleksandr_Dyuma._Uch_mushketyor_roman.png",
+    "local_image": "/books/13.png"
+  },
+  {
+    "id": 14,
+    "title": "Yer markaziga sayohat",
+    "author": "Jules Verne",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 15,
+    "title": "Heidi",
+    "author": "Johanna Spyri",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 16,
+    "title": "Bulbulni o'ldirmang",
+    "author": "Harper Lee",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 17,
+    "title": "Maxfiy bog'",
+    "author": "Frensis Burnett",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 18,
+    "title": "Uch o'rtoq",
+    "author": "E. M. Remark",
     "age_category": "16-20",
-    "genre": "Drama"
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 19,
+    "title": "Chol va Dengiz",
+    "author": "Ernest Xeminguey",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "api_title": "Chol va dengiz",
+    "description": "",
+    "slug": "chol-va-dengiz",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Ernest_Heminguey._Chol_va_dengiz.jpg",
+    "local_image": "/books/19.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Hayvonlar fermasi",
+    "author": "George Orwell",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world"
+  },
+  {
+    "id": 21,
+    "title": "O'tkan kunlar",
+    "author": "Abdulla Qodiriy",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Oʻtkan kunlar",
+    "description": "",
+    "slug": "o-tkan-kunlar",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/07/2024-07-29_14.58.02.jpg",
+    "local_image": "/books/21.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Mehrobdan chayon",
+    "author": "Abdulla Qodiriy",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Mehrobdan chayon (roman)",
+    "description": "",
+    "slug": "mehrobdan-chayon-roman",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/mehrobdan_chayon_2.jpg",
+    "local_image": "/books/22.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Kecha va Kunduz",
+    "author": "Cho'lpon",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Kecha va kunduz",
+    "description": "",
+    "slug": "kecha-va-kunduz",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/05/photo_2024-05-27_09-37-56.jpg",
+    "local_image": "/books/23.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Dunyoning ishlari",
+    "author": "O'tkir Hoshimov",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Dunyoning ishlari",
+    "description": "",
+    "slug": "dunyoning-ishlari",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/dunyoning_ishlari.png",
+    "local_image": "/books/24.png"
+  },
+  {
+    "id": 25,
+    "title": "Bahor qaytmaydi",
+    "author": "O'tkir Hoshimov",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Bahor qaytmaydi",
+    "description": "",
+    "slug": "bahor-qaytmaydi",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/04/Bahor_qaytmaydi.jpg",
+    "local_image": "/books/25.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Yulduzli tunlar",
+    "author": "Pirimqul Qodirov",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Yulduzli tunlar",
+    "description": "",
+    "slug": "yulduzli-tunlar",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/yulduzli_tunlar_H2f0X0d.jpg",
+    "local_image": "/books/26.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Kelinlar qo'zg'oloni",
+    "author": "Said Ahmad",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Kelinlar qoʻzgʻoloni",
+    "description": "",
+    "slug": "kelinlar-qo-zg-oloni",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/05/Kelinlar_qozgaloni.jpg",
+    "local_image": "/books/27.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Shum bola",
+    "author": "G'afur G'ulom",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Shum bola",
+    "description": "",
+    "slug": "shum-bola",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/G%CA%BBafur_G%CA%BBulom._shum_bola.jpg",
+    "local_image": "/books/28.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Sariq devni minib",
+    "author": "Xudoyberdi To'xtaboyev",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Sariq devni minib",
+    "description": "",
+    "slug": "sariq-devni-minib",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/Xudoybersi_To%CA%BBxtaboyev._Sariq_devni_minib.jpg",
+    "local_image": "/books/29.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Sehrli qalpoqcha",
+    "author": "Xudoyberdi To'xtaboyev",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek"
+  },
+  {
+    "id": 31,
+    "title": "Himmat",
+    "author": "H. Nurillayev",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek"
+  },
+  {
+    "id": 32,
+    "title": "Nega men yig'layapman",
+    "author": "Utkir Rashid",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek"
+  },
+  {
+    "id": 33,
+    "title": "Ruhlar isyoni",
+    "author": "Erkin Vohidov",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Ruhlar isyoni",
+    "description": "",
+    "slug": "ruhlar-isyoni",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Erkin_Vohidov._Ruhlar_isyoni.jpg",
+    "local_image": "/books/33.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Bo'rondan kuchli",
+    "author": "Sharof Rashidov",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek"
+  },
+  {
+    "id": 35,
+    "title": "Zaynab va Omon",
+    "author": "Hamid Olimjon",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "api_title": "Zaynab va Omon",
+    "description": "",
+    "slug": "zaynab-va-omon",
+    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/06/Hamid_Olimjon._Zaynab_va_Omon_doston.jpg",
+    "local_image": "/books/35.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Sirdaryo afsonalari",
+    "author": "Said Baraka",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek"
+  },
+  {
+    "id": 37,
+    "title": "Quvnoq bolalar",
+    "author": "Zafar Diyor",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek"
   }
 ]

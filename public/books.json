@@ -7,10 +7,11 @@
     "genre": "Jahon adabiyoti",
     "type": "world",
     "api_title": "Kichkina shahzoda",
-    "description": "",
+    "description": "O‘zining olisdagi mittigina sayyorasidan Yerga uchib kelgan bolakay. U ancha-muncha sayyoralarda bo‘lgan, har xil odamlarni uchratgan. Lekin u qayerda bo‘lmasin, tezda zerikib qoladi, o‘z sayyorasini sog‘inadi. Chunki Kichkina shahzoda o‘sha yerda tug‘ilgan. O‘sha joy uning vatani. O‘sha joyda uni sevimli guli kutmoqda. Xo‘sh, Kichkina shahzoda o‘z maskaniga qayta oladimi? Fransuz yozuvchisi Antuan de Sent-Ekzyuperining ushbu kitobini o‘qib chiqsangiz, bu savolga javob topasiz.",
     "slug": "kichkina-shahzoda",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/01/kichkina_shahzoda.png",
-    "local_image": "/books/1.png"
+    "local_image": "/books/1.png",
+    "cover_source": "existing-local"
   },
   {
     "id": 2,
@@ -20,10 +21,11 @@
     "genre": "Jahon adabiyoti",
     "type": "world",
     "api_title": "Tom Soyerning yangi sarguzashtlari",
-    "description": "",
+    "description": "“Tom Soyerning yangi sarguzashtlari”da Tom Soyer va uning doʻstlari havo sharida parvoz qilib, dunyoning turli mamlakatlari ustidan oʻtadi va bolalarga koʻplab mavzular haqida qimmatli maʼlumotlar berib oʻtadi. Yozuvchi tomonidan ilm va ilmsizlik, yaxshilik va yomonlik, tabiat hodisalari qahramonlar boshidan kechirgan voqealar fonida ravon ifodalab beriladi.",
     "slug": "tom-soyerning-yangi-sarguzashtlari",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/07/IMG_20240707_181000_464.jpg",
-    "local_image": "/books/2.jpg"
+    "local_image": "/books/2.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 3,
@@ -31,7 +33,11 @@
     "author": "Mark Tven",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "image": "https://covers.openlibrary.org/b/id/8157718-L.jpg",
+    "local_image": "/books/3.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL53908W/Adventures_of_Huckleberry_Finn"
   },
   {
     "id": 4,
@@ -41,9 +47,12 @@
     "genre": "Jahon adabiyoti",
     "type": "world",
     "api_title": "Robinzon Kruzoning hayoti va ajoyib sarguzashtlari",
-    "description": "",
+    "description": "Atrofingda sen bilan dardlashadigan, umuman muloqat qiladigan kimsa yo‘q, go‘yo olamda faqat yakka ‎o‘zing va bir qancha jonivorlar. Barcha tashvishlar-u kulfatlarga faqat shu jonivorlargina guvoh. Orzu-‎xayollar, iztiroblar sog‘inch hissi seni sira tark etolmaydi.‎ Yigirma sakkiz yil kimsasiz, to‘rt tomoni bepayon ummon bo‘lgan orolda yashagan Robinzon Kruzoning ‎sarguzashtlarga boy kechmishi kitobxonni befarq qoldirmaydi. Shuningdek, voqealarning oddiy va ‎kutilmagan holatlar bilan bayon qilinishi qiziqtirishi tabiiy.",
     "slug": "robinzon-kruzoning-hayoti-va-ajoyib-sarguzashtlari",
-    "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Daniel_Defo_Robinzon._Kruzoning_hayoti_va_ajoyib_sarguzashtlari.jpg"
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/Daniel_Defo_Robinzon._Kruzoning_hayoti_va_ajoyib_sarguzashtlari.jpg",
+    "local_image": "/books/4.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/robinzon-kruzoning-hayoti-va-ajoyib-sarguzashtlari/"
   },
   {
     "id": 5,
@@ -51,7 +60,12 @@
     "author": "Jek London",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "description": "Bo'ri itning odamlar olamidagi hayoti",
+    "image": "https://covers.openlibrary.org/b/id/8236920-L.jpg",
+    "local_image": "/books/5.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL74504W/White_Fang"
   },
   {
     "id": 6,
@@ -61,10 +75,11 @@
     "genre": "Jahon adabiyoti",
     "type": "world",
     "api_title": "Hayotga muhabbat",
-    "description": "",
+    "description": "Jek Londonning “Hayotga muhabbat” hikoyasi o‘ziga xos syujet qurilishiga ega. Muallif insonning kurashuvchanligi va umidiga urg‘u beradi. Boshida yo‘lga chiqqan, aniqrog‘i, borgan yo‘lidan iziga qaytayotgan ikki yo‘lovchining holati tavsirlanadi. Hikoya mazmunida inson uchun bu olamda oltindan ko‘ra muhimroq narsa, ya’ni tirik qolish, halovatda yashash va o‘z maqsadiga erishish yo‘lida tinimsiz intilish muhimligiga doir fikrlar mujassamlashgan.",
     "slug": "hayotga-muhabbat",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/Jek_London._Hayotga_muhabbat.jpg",
-    "local_image": "/books/6.jpg"
+    "local_image": "/books/6.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 7,
@@ -72,7 +87,14 @@
     "author": "Robert L. Stivenson",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "description": "“Xazinalar oroli” – shotland yozuvchisi Robert Louis Stevenson qalamiga mansub sarguzasht roman. Kitob oʻlaroq birinchi marta 1883-yil London shahrida “Cassell and Company” nashriyoti tomonidan chop etilgan. Ilk bor 1881-1882-yillarda “Young Folks” bolalar jurnalida “Xazinalar oroli, yoki Ispanola isyosni” nomi bilan chop etilgan. Romanni oʻzbek tiliga Ahmadjon Yoqubov tarjima qilgan. Asarda Jim Hawkins ismli bolaning hayoti, uning skvayr Treloni va doktor Livsi bilan birgalikda Xazinalar oroliga borib, u yerdagi boyliklarni izlab boshidan kechirgan sarguzashtlari haqida soʻz yuritiladi. Asar qaroqchilar haqidagi ommaviy tasavvurning shakllanishida muhim rol oʻynagan. Masalan, xazina xaritalarini “X” bilan belgilash, tropik orollar, yelkasida toʻti qush olib yuruvchi bir oyoqli dengizchilar obrazlari aynan shu asardan keyin keng tarqalgan.",
+    "api_title": "Xazinalar oroli",
+    "slug": "xazinalar-oroli",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/Robert_Luis_Stivinson._Xazinalar_oroli._roman.jpg",
+    "local_image": "/books/7.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/xazinalar-oroli/"
   },
   {
     "id": 8,
@@ -80,7 +102,11 @@
     "author": "J. R. R. Tolkien",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "image": "https://covers.openlibrary.org/b/id/14625765-L.jpg",
+    "local_image": "/books/8.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL27448W/The_Lord_of_the_Rings"
   },
   {
     "id": 9,
@@ -88,7 +114,11 @@
     "author": "Suzanne Collins",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "image": "https://covers.openlibrary.org/b/id/12646537-L.jpg",
+    "local_image": "/books/9.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL5735363W/The_Hunger_Games"
   },
   {
     "id": 10,
@@ -96,7 +126,11 @@
     "author": "Lois Lowry",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "image": "https://covers.openlibrary.org/b/id/8352502-L.jpg",
+    "local_image": "/books/10.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL1846076W/The_Giver"
   },
   {
     "id": 11,
@@ -106,10 +140,11 @@
     "genre": "Jahon adabiyoti",
     "type": "world",
     "api_title": "Alisa moʻjizalar mamlakatida",
-    "description": "",
+    "description": "Ushbu asarda Alisaning oq Quyonni qidirib boshidan kechirgan sarguzashtlari tasvirlangan.",
     "slug": "alisa-mo-jizalar-mamlakatida",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/04/Lyuis_Kerrol._Alisa_mo%CA%BBjizalar_mamlakatida_ertak.jpg",
-    "local_image": "/books/11.jpg"
+    "local_image": "/books/11.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 12,
@@ -119,10 +154,11 @@
     "genre": "Jahon adabiyoti",
     "type": "world",
     "api_title": "Oliver Tvistning boshidan kechirganlari",
-    "description": "",
+    "description": "Angliyaning ovloq shaharlaridan biridagi “Mehnat uyi” – “Gʻaribxona”. Taqdir taqozosi bilan buyerga ‎kelib qolgan yosh va ko‘hlikkina juvonning shu mudhish dargohda ko‘zi yoridi. Bola dunyoga keldi-yu, ‎ona esa olamdan o‘tdi.‎ Sho‘rpeshona go‘dak muhtojlik va qiynoqlar ostida o‘n yoshga to‘ldi. Uni tobutsozga shogirtlikka ‎berdilar. Bola bu yerdagi azob-uqubatlar, haqoratlarga dosh berolmay, boshi oqqan tomonga qarab ‎qochdi.‎ Mana katta London yo‘li. Tuguncha ko‘targan, ust-boshi yupin, boshida homiysi, bisotida sariq chaqasi ‎yo‘q so‘qqa bosh, qiltiriq bolakay ketib boryapti…‎",
     "slug": "oliver-tvistning-boshidan-kechirganlari",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Charlz_Dikkens._oliver_tvist_boshdan_kechirganlar.jpg",
-    "local_image": "/books/12.jpg"
+    "local_image": "/books/12.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 13,
@@ -132,10 +168,11 @@
     "genre": "Jahon adabiyoti",
     "type": "world",
     "api_title": "Uch mushketyor",
-    "description": "",
+    "description": "“Uch mushketyor” eng koʻp oʻqiladigan fransuz romanlaridan biri boʻlib, dʼArtanyan va uning doʻstlari haqidagi murakkab sarguzashtlar haqida hikoya qiladi. Asarning maftunkor syujeti har doim oʻquvchini mushketyorlar hayotiga olib kiradi. Dyuma muvaffaqiyatining asosiy siri – bu oʻquvchining oʻz qahramonlariga taqlid qilish istagini paydo qila olishidadir.",
     "slug": "uch-mushketyor",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/05/Aleksandr_Dyuma._Uch_mushketyor_roman.png",
-    "local_image": "/books/13.png"
+    "local_image": "/books/13.png",
+    "cover_source": "existing-local"
   },
   {
     "id": 14,
@@ -143,7 +180,11 @@
     "author": "Jules Verne",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "image": "https://covers.openlibrary.org/b/id/8359565-L.jpg",
+    "local_image": "/books/14.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL18437639W/Journey_to_the_center_of_the_earth"
   },
   {
     "id": 15,
@@ -151,7 +192,11 @@
     "author": "Johanna Spyri",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "image": "https://covers.openlibrary.org/b/id/2668686-L.jpg",
+    "local_image": "/books/15.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL1455042W/Heidi"
   },
   {
     "id": 16,
@@ -159,7 +204,12 @@
     "author": "Harper Lee",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "description": "Adolat va irqiy tenglik haqida",
+    "image": "https://covers.openlibrary.org/b/id/14351077-L.jpg",
+    "local_image": "/books/16.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL3140822W/To_Kill_a_Mockingbird"
   },
   {
     "id": 17,
@@ -167,7 +217,11 @@
     "author": "Frensis Burnett",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "image": "https://covers.openlibrary.org/b/id/12622062-L.jpg",
+    "local_image": "/books/17.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL69612W/The_Secret_Garden"
   },
   {
     "id": 18,
@@ -175,7 +229,14 @@
     "author": "E. M. Remark",
     "age_category": "16-20",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "description": "Gʻarbda «Yoʻqotilgan avlod» deb atalgan adabiyotning yirik vakili hisoblanmish Remarkning \"Uch ogʻayni\" asarida urush dahshatlari, 2-jahon urushi yillari va undan keyingi davrdagi hayotni, fashizmning mudhish qiyofasi, maʼnaviy ezilgan, oʻzini jamiyatdan begonalashgan deb his qiluvchi kishilar qismati aks etgan. Undagi 3 oʻrtoq Robert, Kester, Gotfridlarlarni birlashtirgan harbiy birodarlik, ularning kechmishlari sizni befarq qoldirmaydi.",
+    "api_title": "Uch ogʻayni",
+    "slug": "uch-og-ayni",
+    "image": "https://covers.openlibrary.org/b/id/10813656-L.jpg",
+    "local_image": "/books/18.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/books/OL13443245M/Three_comrades"
   },
   {
     "id": 19,
@@ -185,10 +246,11 @@
     "genre": "Jahon adabiyoti",
     "type": "world",
     "api_title": "Chol va dengiz",
-    "description": "",
+    "description": "Dunyo miqyosida mashhur adib, ‌‎“Nobel” mukofoti ‎sovrindori Ernest Hemingueyning “Chol va ‎dengiz” qissasida insonning ulugʻligi, undagi iroda va matonat, ‎oqillik ‎va azm-u qaroridan ogʻishmaslik oʻzgacha talqinda aks etgan.‎",
     "slug": "chol-va-dengiz",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Ernest_Heminguey._Chol_va_dengiz.jpg",
-    "local_image": "/books/19.jpg"
+    "local_image": "/books/19.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 20,
@@ -196,7 +258,14 @@
     "author": "George Orwell",
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
-    "type": "world"
+    "type": "world",
+    "description": "“Molxona” mashhur ingliz yozuvchisi Jorj Oruell tomonidan 1945-yilda chop etilgan masal janridagi satirik asar. Asar fermadagi hayvonlarning xo‘jayinlarini haydab, hayvonlar diktaturasini o‘rnatishi haqida. Bunda Oruell inqilobiy prinsiplar evolyutsiyasini, yaʼni sekin-asta tenglik va birodarlik g‘oyalaridan utopiya va diktatura sari qadamini mohirona ochib bergan. Mashhur fransuz inqilobchisi Dantonning “Inqilob o‘z farzandlarini Saturn xudosi kabi yeb bitiradi” degan iborasi ham asarda o‘z aksini topgan. “Molxona” Rossiyada bo‘lib o‘tgan 1917-yilgi inqilobga va SSSRdagi tuzumga nisbatan allegoriya shaklida yozilgan. Oruell bu asarini 1943-yil noyabr oyidan 1944-yil fevraligacha yozib tugatgan.",
+    "api_title": "Molxona",
+    "slug": "molxona",
+    "image": "https://covers.openlibrary.org/b/id/11261770-L.jpg",
+    "local_image": "/books/20.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL1168007W/Animal_Farm"
   },
   {
     "id": 21,
@@ -206,10 +275,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Oʻtkan kunlar",
-    "description": "",
+    "description": "Sevgi kimlarni yig‘latib, kimlarni kuydirmagan, deysiz. Sharq adabiyoti durdonalaridan hisoblanmish mazkur asarda muhabbat o‘zgacha badiiy talqin qilinadi. Shuningdek, vatanparvarlik, olijanoblik, vafo va xiyonat, havas va hasad, zamon taloto‘plari tilga olinadi. Ham tarixiy, ham adabiy chizgilar, shoirona go‘zal so‘zlar, betakror tasviriy ifodalar, asar qahramonlari tilidan aytilgan va bugungi kun yoshlarining tilida ham sevimli iboralarga aylanib qolgan otashin so‘zlar... shubhasiz, aytish mumkinki, asarni o‘qimaslikning, qayta-qayta mutolaa qilmaslikning iloji yo‘q. Abdulla Qodiriyning “O‘zbek romanchiligi asoschisi” sifatida tan olinishiga sabab bo‘lgan ushbu asar voqealari tariximizning bir ko‘rinishi, muallif ta’kidlaganidek, o‘zbeklar turmushidan tarixiy romandir. Kitob MTRK jamoasi tomonidan audiolashtirilgan.",
     "slug": "o-tkan-kunlar",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/07/2024-07-29_14.58.02.jpg",
-    "local_image": "/books/21.jpg"
+    "local_image": "/books/21.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 22,
@@ -219,10 +289,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Mehrobdan chayon (roman)",
-    "description": "",
+    "description": "“Mehrobdan chayon” – o‘zbek romanchiligining asoschisi Abdulla Qodiriyning ikkinchi yirik asari 1928-yil fevralda yozib tugatilgan. Roman birinchi marta 1929-yil Samarqandda bosilib chiqdi. Roman mavzusi XIX asr hodisalari “xon zamonlari” davridagi o‘zboshimchaliklarni ko‘rsatishga qaratilgan bo‘lsa-da, unda roman yozilgan davr ruhi kuchli singdirilgan. Romanda Anvar bilan Ra’noning sevgi sarguzashti, qalb nazokati shoirona tarannum etilgan.",
     "slug": "mehrobdan-chayon-roman",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/mehrobdan_chayon_2.jpg",
-    "local_image": "/books/22.jpg"
+    "local_image": "/books/22.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 23,
@@ -232,10 +303,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Kecha va kunduz",
-    "description": "",
+    "description": "Romanda xalq va jamiyat hayotida muhim ahamiyatga molik boʻlgan barcha ziddiyatlar ifodalangan. Jafokash xalqning, xususan, xotin-qizlarning fojeiy hayoti tasvirlangan. Qahramonlar taqdirida butun bir xalqning davrga xos fojeali hayoti yaqqol koʻrsatib berilgan.",
     "slug": "kecha-va-kunduz",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/05/photo_2024-05-27_09-37-56.jpg",
-    "local_image": "/books/23.jpg"
+    "local_image": "/books/23.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 24,
@@ -245,10 +317,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Dunyoning ishlari",
-    "description": "",
+    "description": "XX asr o‘zbek adabiyotida o‘z o‘rni va uslubiga ega bo‘lgan adib – O‘zbekiston xalq yozuvchisi O‘tkir Hoshimov, aytish mumkinki, XXI asr o‘quvchisining ham sevimli adibi bo‘lib qoladi. Jonli va hayotiy tasvirlar, sof o‘zbekona yondashuv va xarakter, qahramonlar o‘rtasidagi suhbatlar mutolaasi o‘quvchini o‘z ta’siriga oladi. Nafaqat millat, balki chin insoniylik tarannumi yozuvchi asarlarida yetakchilik qilishi kitobxon uchun tarbiyaviy va hayotiy saboq bo‘ladi. Xoh jiddiy, xoh hajviy bo‘lsin O‘tkir Hoshimov asarlarida hayot qaynaydi: unda har birimiz o‘zimizni, oilamizni, do‘st-u yorimizni, hatto hech kimga o‘xshamagan onamizni ko‘ramiz... Bir inson umrini qamragan roman bo‘lsin, qator novellalardan iborat qissa yoki hikoya bo‘lsin, janridan qat’i nazar, O‘tkir Hoshimov asarlarida dunyoning ishlari mujassam. Mutolaa har qanday o‘quvchi uchun katta hayotiy xulosa berishiga ishonamiz.",
     "slug": "dunyoning-ishlari",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/dunyoning_ishlari.png",
-    "local_image": "/books/24.png"
+    "local_image": "/books/24.png",
+    "cover_source": "existing-local"
   },
   {
     "id": 25,
@@ -258,10 +331,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Bahor qaytmaydi",
-    "description": "",
+    "description": "Oʻzbekiston Xalq yozuvchisi Oʻtkir Hoshimov mustaqil Vatanimizning adabiyoti va maʼnaviy xazinasiga salmoqli hissa qoʻshgan ijodkordir. Qariyb ellik yil davomida turli tillarda ikki yarim millionga yaqin nusxada chop etilgan yetmishdan ortiq kitobi adibni xalqimizning ardoqli farzandiga aylantirdi. Uning \"Bahor qaytmaydi\" asari adibga shuhrat keltirgan asarlari qatoriga kiradi.",
     "slug": "bahor-qaytmaydi",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/04/Bahor_qaytmaydi.jpg",
-    "local_image": "/books/25.jpg"
+    "local_image": "/books/25.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 26,
@@ -271,10 +345,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Yulduzli tunlar",
-    "description": "",
+    "description": "Mahoratli yozuvchi Pirimqul Qodirovning ushbu asari oʻzbek adabiyotining eng sara tarixiy romanlari sirasiga kiradi. Unda Movarounnahrdek ulkan saltanatning parchalanib ketishi, Temuriylar sulolasining inqirozi, hokimiyatga erishish ilinjida taxt talashib, bir-birlariga qilich koʻtargan ogʻa-ini, togʻa-jiyanlarning fojiaviy qismati aks ettirilgan. Roman voqealari orqali oʻquvchi tarixda Temuriylar oʻrtasidagi nizolar, fitna, fisq-u fasod tufayli yuzaga kelgan qonli urushlar, ayovsiz xunrezliklar oqibatida behad qonxoʻr beklar zulmidan sillasi butkul qurigan xalqning gʻoyat nochor ahvoli va uyushqoqlikdan bexabar Temuriylarni Shayboniyxon qanchalar oson mahv etgani bilan tanishadi. Asarning bosh qahramoni mirzo Bobur odamlardagi bemehrlik, bir-birini ko‘rolmaslik, xudbinlik, xiyonat singari jirkanch illatlar bilan g‘oyat erta, o‘n ikki yoshida taxtga o‘tirganida ro‘baro‘ bo‘ldi. Taqdirning ayanchli zarbalaridan zada bo‘lgan shohning kuygan yuragi – shoir qalbi qalandarlikni ixtiyor etgani ajab emas. Asar mutolaasi davomida butun umr Vatan ishqida yonib, sog‘inch bilan o‘rtanib, “Jonimdin o‘zga yori vafodor topmadim...” deya iztirob chekkan bobokalonimiz dardi kitobxon qalbini larzaga soladi.",
     "slug": "yulduzli-tunlar",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/yulduzli_tunlar_H2f0X0d.jpg",
-    "local_image": "/books/26.jpg"
+    "local_image": "/books/26.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 27,
@@ -284,10 +359,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Kelinlar qoʻzgʻoloni",
-    "description": "",
+    "description": "«Kelinlar qo‘zg‘oloni»...O‘zbek nasrining peshqadam arboblaridan biri, O‘zbekiston xalq yozuvchisi Said Ahmad asari asosida sahnalashtirilgan bu spektaklni yodga olishingiz bilan yuzingizga tabassum yuguradi. Uni qayta-qayta tomosha qilsangiz-da g‘ashingizga tegmaydi. 1984 yilda sahna yuzini ko‘rgan spektakl yillar osha hamon sevimli bo‘lib yashab kelayotgan san’at durdonalaridan biridir. Milliy teatr san’atimizni dunyoga tanitgan bu spektakl radiomontaji ham yurtdoshlarimiz ko‘nglidan munosib joy olgan.",
     "slug": "kelinlar-qo-zg-oloni",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/05/Kelinlar_qozgaloni.jpg",
-    "local_image": "/books/27.jpg"
+    "local_image": "/books/27.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 28,
@@ -297,10 +373,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Shum bola",
-    "description": "",
+    "description": "G‘afur G‘ulomning “Shum bola” qissasi turfa hangomalarga boy asar. Undagi ichakuzdi syujetlar zamirida davrning jiddiy muammolari, og‘riqli nuqtalari tilga olingan. Yozuvchi o‘zi yashagan davrning qiyofasini, mahallalardagi hayot tarzini, ish va ishsizlik, qashshoqlar va boylar hayotini maroq bilan tasvirlaydi. Siz ham asar davomida yozuvchi bilan birga Toshkent mahallalari bo‘ylab safarga chiqasiz. Asar asrdan asrga o‘z o‘quvchilari bilan birga o‘tib kelmoqda. Sizga yoqimli mutolaa onlarini tilaymiz.",
     "slug": "shum-bola",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/G%CA%BBafur_G%CA%BBulom._shum_bola.jpg",
-    "local_image": "/books/28.jpg"
+    "local_image": "/books/28.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 29,
@@ -310,10 +387,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Sariq devni minib",
-    "description": "",
+    "description": "Xudoyberdi To‘xtaboyevning ushbu asari sarguzashtlarga boy bo‘lib, o‘zbek bolalar adabiyotining noyob durdonalaridan biridir. Unda bolalikning sodda va samimiy, quvnoq va zavqli onlari teran nigoh bilan qalamga olinadi. Bu asarni, asardagi kulgiga boy sarguzashtlarni bemalol zamonaviy Garri Potterga qiyoslasa bo‘ladi. Asarni o‘qib chiqsangiz, bunga amin bo‘lasiz.",
     "slug": "sariq-devni-minib",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/Xudoybersi_To%CA%BBxtaboyev._Sariq_devni_minib.jpg",
-    "local_image": "/books/29.jpg"
+    "local_image": "/books/29.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 30,
@@ -321,7 +399,11 @@
     "author": "Xudoyberdi To'xtaboyev",
     "age_category": "11-15",
     "genre": "O'zbek adabiyoti",
-    "type": "uzbek"
+    "type": "uzbek",
+    "image": "https://n.ziyouz.com/images/bookcover/bolalar_kutubxonasi/Xudoyberdi%20To%27xtaboyev.%20Sehrli%20qalpoqcha%20%28qissa%29.jpg",
+    "local_image": "/books/30.jpg",
+    "cover_source": "ziyouz",
+    "cover_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/xudoyberdi-to-xtaboyev-sehrli-qalpoqcha-qissa"
   },
   {
     "id": 31,
@@ -329,7 +411,9 @@
     "author": "H. Nurillayev",
     "age_category": "11-15",
     "genre": "O'zbek adabiyoti",
-    "type": "uzbek"
+    "type": "uzbek",
+    "local_image": "/books/31.svg",
+    "cover_source": "generated-after-search"
   },
   {
     "id": 32,
@@ -337,7 +421,9 @@
     "author": "Utkir Rashid",
     "age_category": "11-15",
     "genre": "O'zbek adabiyoti",
-    "type": "uzbek"
+    "type": "uzbek",
+    "local_image": "/books/32.svg",
+    "cover_source": "generated-after-search"
   },
   {
     "id": 33,
@@ -347,10 +433,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Ruhlar isyoni",
-    "description": "",
+    "description": "Oʻzining isyonkor she’rlari bilan butun Hindistonni erk uchun, ozodlik uchun kurashga ruhlantirgan otashin bengal shoirining orzu-armonlari, jasorati, fojiaviy qismati haqida doston.",
     "slug": "ruhlar-isyoni",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Erkin_Vohidov._Ruhlar_isyoni.jpg",
-    "local_image": "/books/33.jpg"
+    "local_image": "/books/33.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 34,
@@ -358,7 +445,11 @@
     "author": "Sharof Rashidov",
     "age_category": "11-15",
     "genre": "O'zbek adabiyoti",
-    "type": "uzbek"
+    "type": "uzbek",
+    "image": "https://n.ziyouz.com/images/bookcover/uzbek_nasri/Sharof%20Rashidov.%20Asarlar.%205%20jildlik.%202-jild.%20Bo%27rondan%20kuchli%20%28roman%29.jpg",
+    "local_image": "/books/34.jpg",
+    "cover_source": "ziyouz",
+    "cover_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/sharof-rashidov-asarlar-5-jildlik-2-jild-bo-rondan-kuchli-roman"
   },
   {
     "id": 35,
@@ -368,10 +459,11 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "api_title": "Zaynab va Omon",
-    "description": "",
+    "description": "Hamid Olimjonning “Zaynab va Omon” dostoni yoshlikning sof va begʻubor tuygʻularini tarannum etadi. Magʻrur qizning ilk muhabbati uchun kurashuvi, mashaqqatli boʻlsa-da, oʻsha davrning odatlaridan boʻlgan, “beshikkerti”, “quloq tishladi” kabi eski rasm-rusumlariga qarshi turib, sevgisi yoʻlida olgʻa intilgani va oʻz orzusiga yetishgani tasvirlanadi.",
     "slug": "zaynab-va-omon",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/06/Hamid_Olimjon._Zaynab_va_Omon_doston.jpg",
-    "local_image": "/books/35.jpg"
+    "local_image": "/books/35.jpg",
+    "cover_source": "existing-local"
   },
   {
     "id": 36,
@@ -379,7 +471,9 @@
     "author": "Said Baraka",
     "age_category": "11-15",
     "genre": "O'zbek adabiyoti",
-    "type": "uzbek"
+    "type": "uzbek",
+    "local_image": "/books/36.svg",
+    "cover_source": "generated-after-search"
   },
   {
     "id": 37,
@@ -387,6 +481,581 @@
     "author": "Zafar Diyor",
     "age_category": "11-15",
     "genre": "O'zbek adabiyoti",
-    "type": "uzbek"
+    "type": "uzbek",
+    "local_image": "/books/37.svg",
+    "cover_source": "generated-after-search"
+  },
+  {
+    "id": 38,
+    "title": "Hobbit",
+    "author": "J.R.R. Tolkien",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Sarguzasht va jasorat haqida fantastik roman",
+    "image": "https://covers.openlibrary.org/b/id/14627509-L.jpg",
+    "local_image": "/books/38.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL27482W"
+  },
+  {
+    "id": 39,
+    "title": "Kapitan Grant bolalari",
+    "author": "Jyul Vern",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Bu kitobda kemasi halokatga uchrab, oʻzi bedarak yoʻqolgan kapitanni izlab yoʻlga chiqqan uning qizi va oʻgʻli hamda bir guruh dengizchilar boshdan kechirgan qiziqarli voqealar hikoya qilinadi.",
+    "api_title": "Kapitan Grant  bolalari",
+    "slug": "kapitan-grant-bolalari",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/jyul_vern._kapitan_grant_bolalar.jpg",
+    "local_image": "/books/39.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/kapitan-grant-bolalari/"
+  },
+  {
+    "id": 40,
+    "title": "Sherlok Xolms hikoyalari",
+    "author": "Artur Konan Doyl",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "",
+    "api_title": "",
+    "image": "https://covers.openlibrary.org/b/id/6717853-L.jpg",
+    "local_image": "/books/40.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL262421W"
+  },
+  {
+    "id": 41,
+    "title": "O'rmon kitobi (Jungle Book)",
+    "author": "Redyard Kipling",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Tabiat va odamlar o'rtasidagi bog'liqlik",
+    "image": "https://covers.openlibrary.org/b/id/3344204-L.jpg",
+    "local_image": "/books/41.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL19870W"
+  },
+  {
+    "id": 42,
+    "title": "Gulliverning sayohatlari",
+    "author": "Jonatan Svift",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Jonathan Svift tomonidan yozilgan asar. Bu roman satiriko-fantastik janrida yozilgan. Asarning toʻliq nomi „Lemyuel Gulliver­ning jahondagi bir necha olis mamlakatlarga awalo jarroh, keyinchalik esa bir necha kemalar kapitani sifatida qilgan sayohatlari“ Roman 1726-1727 yillarda, Londonda birinchi marta nashr qilingan. Asar toʻrt qismdan iborat.",
+    "api_title": "Gulliverning sayohatlari",
+    "slug": "gulliverning-sayohatlari",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/04/Jonatan_Svift._Guliverning_sayohatlari_roman.jpg",
+    "local_image": "/books/42.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/gulliverning-sayohatlari/"
+  },
+  {
+    "id": 43,
+    "title": "Momo",
+    "author": "Mixael Ende",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Vaqtni o'g'irlaydiganlar haqida tasavvuriy roman",
+    "image": "https://covers.openlibrary.org/b/id/8574580-L.jpg",
+    "local_image": "/books/43.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL2271626W"
+  },
+  {
+    "id": 44,
+    "title": "Uzun paypoq Peppi",
+    "author": "Astrid Lindgren",
+    "age_category": "11-15",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Mustaqil va jasur qizcha haqida",
+    "image": "https://covers.openlibrary.org/b/id/8138433-L.jpg",
+    "local_image": "/books/44.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/books/OL16937756M/Pippi_Longstocking"
+  },
+  {
+    "id": 45,
+    "title": "Bolalik",
+    "author": "Oybek",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Bolalikning yorqin xotiralarini tasvirlovchi asar",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/Oybek._Bolalik_xotiralarim.jpg",
+    "local_image": "/books/45.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/bolalik-xotiralarim/"
+  },
+  {
+    "id": 46,
+    "title": "Ufq",
+    "author": "Said Ahmad",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "\"Ufq boʻsagʻasida\" trilogiyasining soʻnggi qismi boʻlib, unda muallif urushdan keyingi yozyovonliklarning yer oʻzlashtirish jarayonlari, qahramonlarning taqdiri, achchiq kechinmalari bayon qilinadi",
+    "local_image": "/books/46.jpg",
+    "api_title": "",
+    "slug": "ufq-bo-sag-asida-ufq-3-kitob",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/ufq_1kitob.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/qirq-besh-kun-ufq-1-kitob/"
+  },
+  {
+    "id": 47,
+    "title": "Ulug'bek xazinasi",
+    "author": "Odil Yoqubov",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "“Ulugʻbek xazinasi” romani ikki qismdan iborat. Birinchi qismda buyuk oʻzbek olimi Mirzo Ulugʻbek hayotining eng fojiali onlari tasvirlangan. Ikkinchi qismda esa ulugʻ olimning ilmiy merosini asrab qolish uchun uning shogirdlari olib borgan mardonovor kurash hikoya qilingan. Asar muallif tomonidan qayta ishlanib, Ulug‘bekning umri so‘ngida musharraf bo‘lgan sevgisi, sohibqiron bobosi Amir Temur haqidagi xotiralari va boshqa ba’zi bir lavhalar bilan to‘ldirilgan. Audiokitob MTRK studiyasi tomonidan tayyorlangan",
+    "api_title": "Ulugʻbek xazinasi",
+    "slug": "ulug-bek-xazinasi",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/Odil_Yoqubov._Ulug%CA%BBbek_xazinasi.jpg",
+    "local_image": "/books/47.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/ulug-bek-xazinasi/"
+  },
+  {
+    "id": 48,
+    "title": "Ko'k ot",
+    "author": "Mirmuhsin",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Yoshlik, sport va do'stlik haqida",
+    "local_image": "/books/48.svg",
+    "cover_source": "generated-after-search"
+  },
+  {
+    "id": 49,
+    "title": "Besh bolali yigitcha",
+    "author": "Xudoyberdi To'xtaboyev",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Xudoyberdi Toʻxtaboyev qalamiga mansub boʻlgan Besh bolali yigitcha romani ajoyib asar boʻlib, roman Urush davridagi bolalik voqealarini aks ettiradi. Bosh qahramon Orif - nafaqat besh nafar goʻdakning akasi, u qarovchisiz bolalarning, oʻz oilasining kichik yoʻlboshchisi ham. Oila shamchirogʻi oʻchib qolmasligi uchun Orifning zimmasiga ulkan mas'uliyat yuklangan. Ota-onasidan judo boʻlgan bolalar oʻz dunyosida yashasalar-da, urush, vayronagarchiliklarni toʻla his etadilar. Front uchun zambarak sotib olish maqsadida borbudini sotgan qariya-chi? Adolat uchun oʻzini o'tga, cho`qqa urishga shay turgan bolalar uyining omadsiz direktori rus ayoli Mariya Pavlovna-chi? Oriflar oilasi yaxshi odamlar orasida yashaydi, biroq hayot kabi haqiqat qissasi ham shafqatsiz va yaxshi odamlar hamma vaqt ham boshiga musibat tushgan bolalarga yordam qo`llarini cho`za olmaydilar. Ammo ular go`daklar yonida bo`lmasalar -da, mehribonlik ko`rsata oladilar . Bu esa yaxshi qahramonlarning emas, balki yovuzlikka qarshi kurashib, dunyoni munavvar etuvchi yaxshilik, ezgulikning kuchidir! Adib mazkur haqiqatni tasdiqlar ekan, bolalarning Toshkentdan Qo'qonga qadrdon qishloqlariga kelishdagi mashaqqatti yo'lida ezgulik yordam qilgani, yovuzlik esa xalaqit berganini yorqin aks ettiradi.",
+    "api_title": "Besh bolali yigitcha",
+    "slug": "besh-bolali-yigitcha",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/04/Xudoyberdi_To%CA%BBxtaboyev._Besh_bolali_yigitcha_roman.jpg",
+    "local_image": "/books/49.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/besh-bolali-yigitcha/"
+  },
+  {
+    "id": 50,
+    "title": "Alpomish (nasriy bayoni)",
+    "author": "Po'lat Mo'min",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Jahon madaniyati tarixida asrlar davomida muhim ahamiyatga ega boʻlgan “Alpomish” dostoni oʻzbek xalq dostonchiligining eng sara yodgorligidir. Oʻn asrdan buyon avloddan-avlodga oʻtib kelayotgan qadimiy bu doston mard oʻzbek xalqi qalbiga donishmandlik, haqiqatgoʻylik, adolat gʻoyalarini singdiruvchi qahramonlik qoʻshigʻidir. Asarning bosh qahramonlari Alpomish va Barchinoy boʻlib, ular chaqqonlik, botirlik va jasorat, oʻz xalqiga sadoqatlilik singari eng oliyjanob insoniy fazilatlarga ega. Dostonda ifodalangan udum va an’analar oʻzbek xalqining milliy ruhini aks ettirganligi bilan asarning qadr-qimmatini yanada oshirib, oʻquvchilarni oʻziga jalb etadi.",
+    "api_title": "Alpomish",
+    "slug": "alpomish",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/Alpomish_doston.jpg",
+    "local_image": "/books/50.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/alpomish/"
+  },
+  {
+    "id": 51,
+    "title": "Qo'shchinor chiroqlari",
+    "author": "Shukur Xolmirzayev",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Qishloq hayoti va insoniy qadriyatlar",
+    "local_image": "/books/51.svg",
+    "cover_source": "generated-after-search"
+  },
+  {
+    "id": 52,
+    "title": "Shamol aytgan qo'shiq",
+    "author": "Nazar Eshonqul",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Yoshlarga mo'ljallangan badiiy hikoyalar",
+    "local_image": "/books/52.svg",
+    "cover_source": "generated-after-search"
+  },
+  {
+    "id": 53,
+    "title": "Otamdan qolgan dalalar",
+    "author": "Tog'ay Murod",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Muallif o‘z romanida butun umr dalada ketmon chopib, serquyosh yurtida yelkasi oftob ko‘rmagan, qut-barakot yurtida kosasi oqarmagan munis o‘zbek xalqi siymosini Dehqonqul timsolida badiiy talqin etadi. “San'at gulshani” ovoz yozish studiyasi tomonidan tayyorlangan",
+    "api_title": "Otamdan qolgan dalalar",
+    "slug": "otamdan-qolgan-dalalar",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/Tog%CA%BBay_Murod._Otamdan_qolgan_dalalar.jpg",
+    "local_image": "/books/53.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/otamdan-qolgan-dalalar/"
+  },
+  {
+    "id": 54,
+    "title": "Tanlangan she'rlar",
+    "author": "Abdulla Oripov",
+    "age_category": "11-15",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Vatanparvarlik va inson hislari haqida she'rlar",
+    "image": "https://kitobxon.com/img_knigi/3849.jpg",
+    "local_image": "/books/54.jpg",
+    "cover_source": "kitobxon",
+    "cover_source_url": "https://kitobxon.com/oz/kitob/abdulla-oripov-sherlar"
+  },
+  {
+    "id": 55,
+    "title": "Insonning ma'no izlashi",
+    "author": "Viktor Frankl",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Konslager hayotidan hayot ma'nosi haqida",
+    "image": "https://covers.openlibrary.org/b/id/8512767-L.jpg",
+    "local_image": "/books/55.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/books/OL7664930M"
+  },
+  {
+    "id": 56,
+    "title": "Kimyogar",
+    "author": "Paulo Koelo",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Paulo Koeloning 1988-yilda yaratilgan ushbu romani dunyo miqyosidagi bestseller romanlardan biridir. Asarning asosiy voqealari andalusiyalik Santyagoning ko‘rgan tushi asnosida rivojlantiriladi. Asar o‘quvchini “Dunyoning qalbi”ni tushunishga, o‘z taqdir so‘qmog‘idan yurishga o‘rgatadi. Asarni o‘qish jarayonida, voqealar silsilasida uning asosida sharq falsafasi, tasavvuf mujassam ekanligining guvohi bo‘lasiz.",
+    "api_title": "Alkimyogar",
+    "slug": "alkimyogar",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/IMG_20240201_135352_148.png",
+    "local_image": "/books/56.png",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/alkimyogar/"
+  },
+  {
+    "id": 57,
+    "title": "Atom odatlar",
+    "author": "Jeyms Klir",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Yetakchi ekspertlardan biri Jeyms Klir “Atom odatlar” kitobi orqali yaxshi odatlarni kasb qilish, yomonlaridan xalos boʻlish va katta natijalarga olib boruvchi mayda odatlarni qanday egallashni oʻrgatadi. Agar oʻrgangan feʼl-atvoringizni oʻzgartirish qiyin kechsa, muammo oʻzingizda emas. Yomon odatlar ularni oʻzgartirishni istamaganingizdan emas, balki notoʻgʻri oʻzgarishlarga amal qilayotganingiz uchun ham yoʻqolmaydi. Muallif yomon odatlardan butkul xalos boʻlib, faqat yaxshi odatlar bilan qolishga yordam beradigan ushbu qoʻllanmani yozishda biologiya, psixologiya va nevrologiyaning eng oxirgi kashfiyotlariga tayangan.",
+    "api_title": "Atom odatlar",
+    "slug": "atom-odatlar",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/11/Jeyms_Klir._Atom_odatlar.jpg",
+    "local_image": "/books/57.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/atom-odatlar/"
+  },
+  {
+    "id": 58,
+    "title": "Do'stlar orttirish va odamlarga ta'sir ko'rsatish",
+    "author": "Deyl Karnegi",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Odamlar bilan muloqot qilish tadbirkor yoki uy bekasi uchun ham, meʼmor yoki deputat uchun ham birdek katta ahamiyatga ega. Agar siz kitobdan eng yuqori darajada manfaat olmoqchi boʻlsangiz, odamlar bilan muloqotni oʻrganishga kuchli va joʻshqin intiling. Qoʻlingizdagi kitob – harakatlar kitobidir. Harakatni hoziroq boshlang.",
+    "api_title": "Doʻstlar orttirish va odamlarga taʼsir oʻtkazish xususida",
+    "slug": "do-stlar-orttirish-va-odamlarga-tasir-o-tkazish-xususida",
+    "image": "https://covers.openlibrary.org/b/id/13314878-L.jpg",
+    "local_image": "/books/58.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL1063267W"
+  },
+  {
+    "id": 59,
+    "title": "Jinoyat va jazo",
+    "author": "Fyodor Dostoyevskiy",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Asar 1866-yilda yozilgan. Ammo inson kechinmalarining eski va yangisi bo‘lmaganidek, roman qadri ham eskirmagan. “Kambag‘allik ayb emas, biroq yo‘qchilik – illat. Birinchisida inson tug‘ma olijanob fazilatlarni saqlab qola oladi, ammo yo‘qchilikda ularni hech qachon va hech kim saqlab qola olmaydi”, asardagi personajlaridan biri bosh qahramonga bu gapni hayotiy misollar asosida izohlab beradi. Universitetning sobiq talabasi bo‘lgan Raskolnikov esa bu gapdan tegishli xulosa chiqara olmaydi. Natijada, yo‘qchilikdan qutulish, tezda boyib ketish va yuqori mavqega ega bo‘lish maqsadida aql bovar qilmaydigan jinoyat sodir qiladi. Fojiali jihati – qahramon o‘z jinoyatini oqlaydi. Ammo hayot qonunlari adolatli – jinoyatni jazosiz qolishiga imkon bermaydi. Ruhiy jazo jinoyatchini o‘z aybiga iqror bo‘lishga majbur etadi. Romanda shu mudhish qotillikning uzluksiz uqubatlari bilan birga go‘zal muhabbat tasviri ham borki, u kitobxon qalbini beixtiyor junbishga keltiradi.",
+    "api_title": "Jinoyat va jazo",
+    "slug": "jinoyat-va-jazo",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/Fyodor_Dostoyevskiy._Jinoyat_va_jazo.jpg",
+    "local_image": "/books/59.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/jinoyat-va-jazo/"
+  },
+  {
+    "id": 60,
+    "title": "Anna Karenina",
+    "author": "Lev Tolstoy",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Jamiyatda yuqori mavqega ega boʻlgan xonadon bekasi qalbidagi kemtiklikni muhabbatdan izlaydi. Unga oʻsha muhabbat nasib ham boʻladi. Xoʻsh, Anna nega unda atrofidagi mayda muammolardan qatʼi nazar, mehr-muhabbatdan sarmast boʻlishi kerak boʻlgan pallada oʻziga soʻnggi chora – oʻlimni ravo koʻrdi? Vronskiy-chi? U Annaning vasliga erishgach, qalbi daryo, muhabbati yoʻlida sobit ayolga hamisha yana nimadir yetishmayotganini anglashi, his qilishi qiyinmidi? Darhaqiqat, Lev Tolstoy bu asari haqida “Anna Karenina – men oʻzim”, deb aytadi. Anna timsoli orqali yozuvchi hayot-mamot, inson taqdiri, yashashdan maqsad, odamzodning maʼnaviy kamoloti, aʼmoli kabilarga oʻzining haqqoniy va samimiy munosabatini bildiradi. Romanda keltirilgan Kareninlar, Oblonskiylar va Levinlardan iborat uchta katta oilaning turmush tarzi, ularni bogʻlagan rishtalar, qahramonlardagi eʼtiqod masalasi, Vronskiyni Annaga (yoki Annani Vronskiyga) tomon talpintirgan kuch, nihoyat, Annaning halokatli oʻlimi tasvirlarini oʻqirkan, kitobxon oʻzini beixtiyor Tolstoyga yaqindek, Tolstoyga hamfikrdek, balki Tolstoy qalbini oʻqiyotgandek his etadi.",
+    "api_title": "Anna Karenina",
+    "slug": "anna-karenina",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/Lev_Tolstoy._Anna_Karenina_roman_.jpg",
+    "local_image": "/books/60.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/anna-karenina/"
+  },
+  {
+    "id": 61,
+    "title": "1984",
+    "author": "Jorj Oruell",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Jorj Oruellning ushbu romani ilk bora oʻzbek tiliga tarjima qilinib, kitobxonlar eʼtiboriga yetkazilmoqda. “1984” romani “BBC talqinidagi eng yaxshi 200ta kitob” roʻyxatida sakkizinchi oʻrinni, Newsweek tomonidan insoniyat tarixidagi eng yaxshi kitoblar reytingida 2-oʻrinni egallagan. 2017-yilda ushbu kitob AQShda eng koʻp sotilgan kitob hisoblanadi. Asarning bunchalar shuhrat qozonishiga sabablarni kitobni oʻqish mobaynida bilib olishingiz mumkin",
+    "api_title": "1984",
+    "slug": "book-1984",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/11/1-book.jpg",
+    "local_image": "/books/61.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/book-1984/"
+  },
+  {
+    "id": 62,
+    "title": "Sapiens",
+    "author": "Yuval Noy Harari",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Insoniyat tarixi haqida keng qamrovli asar",
+    "image": "https://covers.openlibrary.org/b/id/8634250-L.jpg",
+    "local_image": "/books/62.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL17075811W"
+  },
+  {
+    "id": 63,
+    "title": "Pulning psixologiyasi",
+    "author": "Morgan Hauzel",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Morgan Hauzelning “Pul psixologiyasi” kitobi pul bilan boʻlgan munosabatingizni tom maʼnoda oʻzgartirib yuborishga qodir degan umidda sizga ushbu asarni tortiq etmoqdamiz. Asarni mutolaa qilar ekansiz, pulni samarali boshqarishda moliyaviy yoki matematik bilimlar emas, kishining xulq-atvoriyu turli keskin pallalarda oʻzini qanday tutishi muhimroq rol oʻynashi kundek oydinlashib boraveradi.",
+    "api_title": "Pul psixologiyasi",
+    "slug": "pul-psixologiyasi",
+    "image": "https://covers.openlibrary.org/b/id/10389354-L.jpg",
+    "local_image": "/books/63.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL21640039W"
+  },
+  {
+    "id": 64,
+    "title": "Boy ota, kambag'al ota",
+    "author": "Robert Kiyosaki",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Moliyaviy mustaqillik va investitsiya asoslari",
+    "image": "https://covers.openlibrary.org/b/id/8315603-L.jpg",
+    "local_image": "/books/64.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL2010879W"
+  },
+  {
+    "id": 65,
+    "title": "Samarali odamlarning 7 odati",
+    "author": "Stiven Kovi",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Shaxsiy va kasbiy rivojlanish uchun klassik",
+    "image": "https://covers.openlibrary.org/b/id/10079937-L.jpg",
+    "local_image": "/books/65.jpg",
+    "cover_source": "openlibrary",
+    "cover_source_url": "https://openlibrary.org/works/OL2629977W"
+  },
+  {
+    "id": 66,
+    "title": "Yolg'izlikning yuz yili",
+    "author": "Gabriel Garsia Markes",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "“Yolgʻizlikning yuz yili” – buyuk kolumb yozuvchisi Gabriel Garsiya Markesga Nobel mukofotini olib kelgan mashhur asar. Roman hozirgi kunga kelib ispan tilidan boshqa tillarga eng koʻp tarjima qilinish boʻyicha Migel Servantesning “Don Kixot”idan keyingi oʻrinda turadi. Roman “moʻjizaviy realizm” deb nomlangan yoʻnalishda yozilgan. Bunga sabab, asarda noreal narsalar oddiy holday koʻrsatiladi.",
+    "api_title": "Yolgʻizlikning yuz yili",
+    "slug": "yolg-izlikning-yuz-yili",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/04/Gabriel_Garsia_Markes._Yolg%CA%BBizlikning_yuz_yili_roman.jpg",
+    "local_image": "/books/66.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/yolg-izlikning-yuz-yili/"
+  },
+  {
+    "id": 67,
+    "title": "Begona",
+    "author": "Alber Kamyu",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Asar ekzistensializm gʻoyalarining klassik ifodasidir. Unda Merso familiyali inson haqida soʼz boradi, aynan asar nomida ham u taʼriflangan. Nega Merso — begona? Chunki jamiyat tomonidan oʻrnatilgan va doimo singdirib kelinadigan qoidalarni tan olmaydi, ularga amal qilmaydi. Agar inson boshqalar kabi fikrlamasa, hech kim uni tushunishga harakat qilmaydi. Aynan shu sababga koʻra, u hamma uchun begona edi. Kamyu mazkur asari orqali insonni shunchaki mavjudligi uchun, qanday inson boʼlsa shunday holida qabul qilishning ahamiyatini tushuntiradi.",
+    "api_title": "Begona",
+    "slug": "begona-1",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/Alber_Kamyu._Begona_qissa.png",
+    "local_image": "/books/67.png",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/begona-1/"
+  },
+  {
+    "id": 68,
+    "title": "G'arbiy frontda o'zgarish yo'q",
+    "author": "Erix Mariya Remark",
+    "age_category": "16-20",
+    "genre": "Jahon adabiyoti",
+    "type": "world",
+    "description": "Atoqli nemis yozuvchisi Eriх Mariya Remark ijodi bilan kitobхonlarimiz uning “Uch ogʻayni” romani orqali tanishganlar. “Gʻarbiy frontda oʻzgarish yoʻq” (“Esizgina yoshligim”) asarida birinchi jahon urushi oʻz domiga tortgan oʻspirinlar obrazi orqali urush dahshatlarini boshidan kechirgan, ruhan ezilgan, jamiyatdan begonalashgan va bolalik orzu-umidlari chilparchin boʻlgan butun bir avlodning ayanchli qismati mahorat bilan aks ettirilgan.",
+    "api_title": "Gʻarbiy frontda oʻzgarish yoʻq (Esizgina yoshligim)",
+    "slug": "g-arbiy-frontda-o-zgarish-yo-q-esizgina-yoshligim",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/04/Erix_Mariya_Remark._Esizgina_yoshligim.png",
+    "local_image": "/books/68.png",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/g-arbiy-frontda-o-zgarish-yo-q-esizgina-yoshligim/"
+  },
+  {
+    "id": 69,
+    "title": "Tanlangan asarlar",
+    "author": "Abdulla Oripov",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "O'zbek she'riyatining eng yaxshi namunalari",
+    "image": "https://kitobxon.com/img_knigi/5571.jpg",
+    "local_image": "/books/69.jpg",
+    "cover_source": "kitobxon",
+    "cover_source_url": "https://kitobxon.com/oz/kitob/abdulla-oripov-tanlangan-asarlar"
+  },
+  {
+    "id": 70,
+    "title": "Ruboiylar va dostonlar",
+    "author": "Erkin Vohidov",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Falsafiy va lirik she'riyat namunalari",
+    "image": "https://kitobxon.com/img_knigi/5572.jpg",
+    "local_image": "/books/70.jpg",
+    "cover_source": "kitobxon",
+    "cover_source_url": "https://kitobxon.com/oz/kitob/erkin-vohidov-tanlangan-asarlar"
+  },
+  {
+    "id": 71,
+    "title": "Bu dunyoda o'lib bo'lmaydi",
+    "author": "Tog'ay Murod",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Abdulla Qodiriy nomli davlat mukofoti laureati, Oʻzbekiston xalq yozuvchisi Togʻay Murodning “Bu dunyoda oʻlib boʻlmaydi” romani XX asr oʻzbek ziyolilarining koʻrgiliklari, dard-alamlari, fojialari haqidadir. Bu asar yozuvchining soʻnggi romani boʻlib, koʻp yillik ijodiy izlanishlari inʼikosidir.",
+    "api_title": "Bu dunyoda oʻlib boʻlmaydi",
+    "slug": "bu-dunyoda-o-lib-bo-lmaydi",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2025/09/Tog%CA%BBay_Murod._Bu_dunyoda_o%CA%BBlib_bo%CA%BBlmaydi_roman.png",
+    "local_image": "/books/71.png",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/bu-dunyoda-o-lib-bo-lmaydi/"
+  },
+  {
+    "id": 72,
+    "title": "Dafn marosimi",
+    "author": "Shukur Xolmirzayev",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Qisqa hikoyalar — milliy xarakter va turmush",
+    "local_image": "/books/72.svg",
+    "cover_source": "generated-after-search"
+  },
+  {
+    "id": 73,
+    "title": "Labirint",
+    "author": "Nazar Eshonqul",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Zamonaviy o'zbek nasrida mistik roman",
+    "local_image": "/books/73.svg",
+    "cover_source": "generated-after-search"
+  },
+  {
+    "id": 74,
+    "title": "Alvido, bolaligim!",
+    "author": "Ulmas Umarbekov",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Yoshlik xotiralari va insoniy qadriyatlar",
+    "local_image": "/books/74.svg",
+    "cover_source": "generated-after-search"
+  },
+  {
+    "id": 75,
+    "title": "Tanlangan she'rlar",
+    "author": "Xurshid Davron",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Zamonaviy o'zbek lirikasining yaxshi namunalari",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/Xurshid_Davron._She%CA%BCrlar_to%CA%BBplam.jpg",
+    "local_image": "/books/75.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/sherlar-140/"
+  },
+  {
+    "id": 76,
+    "title": "Men sevaman O'zbekistonni",
+    "author": "Muhammad Yusuf",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Vatanparvarlik she'riyatining yorqin namunalari",
+    "image": "https://kitobxon.com/img_knigi/3852.jpg",
+    "local_image": "/books/76.jpg",
+    "cover_source": "kitobxon",
+    "cover_source_url": "https://kitobxon.com/oz/kitob/muhammad-yusuf-sherlar"
+  },
+  {
+    "id": 77,
+    "title": "Mushtariy",
+    "author": "Hamidulla Boltaboyev",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Tarixiy-badiiy roman — ilm va ma'rifat haqida",
+    "local_image": "/books/77.svg",
+    "cover_source": "generated-after-search"
+  },
+  {
+    "id": 78,
+    "title": "Guliston",
+    "author": "Sa'diy Sheroziy",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "Saʼdiy Sheroziy ijodining gultojlaridan sanalmish “Guliston” – boy hayotiy tajriba asosida yaratilgan yirik pandnoma asardir. Unda oʻziga xos didaktik hikoyatlar va sheʼriy aforizmlar, hikmatlardan bir “guliston” tartib etilgan. Shayx Saʼdiy bu kitobni inson xulq-atvorining eng muhim jihatlariga bagʻishlagan. Asar shunisi bilan qimmatliki, unda kishilarga xos barcha fazilat va illatlar axloq nuqtayi nazaridan qaraladi. Bir vaqtning oʻzida qaysidir feʼlimizdan voz kechishga undasa, baʼzi xislatlarni oʻzimizda paydo qilishga daʼvat etadi.",
+    "api_title": "Guliston",
+    "slug": "guliston",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/Sa%CA%BCdiy_Sheroziy._Guliston_to%CA%BBplam.jpg",
+    "local_image": "/books/78.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/guliston/"
+  },
+  {
+    "id": 79,
+    "title": "Farhod va Shirin",
+    "author": "Alisher Navoiy",
+    "age_category": "16-20",
+    "genre": "O'zbek adabiyoti",
+    "type": "uzbek",
+    "description": "“Farhod va Shirin” haqiqiy sevgi-muhabbat, vafo va sadoqat, doʻstlik va insonparvarlik gʻoyalari qatorida, kasb-hunar oʻrganishning foydalari, shohlar va ularning saltanatlari, shohlik tartib-qoidalari haqidagi keng qamrovli, ibratli rivoyatlarga boy dostondir. Ikki oshiqning begʻubor sevgisi va sevishganlarning fojiali taqdiri nihoyatda mahzunlik bilan kuylangani uchun bu doston asrlar oshsa ham sevib oʻqib kelinmoqda.",
+    "api_title": "Farhod va Shirin (nasriy bayoni)",
+    "slug": "farhod-va-shirin-nasriy-bayoni",
+    "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/Alisher_Navoiy._Farhod_va_Shirin.jpg",
+    "local_image": "/books/79.jpg",
+    "cover_source": "mutolaa",
+    "cover_source_url": "https://mutolaa.com/uz/book/farhod-va-shirin-nasriy-bayoni/"
   }
 ]

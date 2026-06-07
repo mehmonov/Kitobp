@@ -11,7 +11,12 @@
     "slug": "kichkina-shahzoda",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/01/kichkina_shahzoda.png",
     "local_image": "/books/1.png",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/kichkina-shahzoda",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 2,
@@ -25,7 +30,12 @@
     "slug": "tom-soyerning-yangi-sarguzashtlari",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/07/IMG_20240707_181000_464.jpg",
     "local_image": "/books/2.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/tom-soyerning-yangi-sarguzashtlari",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 3,
@@ -39,7 +49,12 @@
     "cover_source": "openlibrary",
     "cover_source_url": "https://openlibrary.org/works/OL53908W/Adventures_of_Huckleberry_Finn",
     "description": "Mark Tvenning romanida Heklberri Finn zo'ravon otasidan qochib, quldorlikdan qochgan Jim bilan Missisipi daryosi bo'ylab safarga chiqadi. Yo'l davomida u erkinlik, do'stlik va jamiyatdagi adolatsizliklar haqida muhim xulosalarga keladi.",
-    "description_source_url": "https://www.britannica.com/topic/Adventures-of-Huckleberry-Finn-novel-by-Twain"
+    "description_source_url": "https://www.britannica.com/topic/Adventures-of-Huckleberry-Finn-novel-by-Twain",
+    "official_link_url": "https://www.gutenberg.org/ebooks/76",
+    "official_link_label": "Project Gutenbergda o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "gutenberg",
+    "official_link_quality": "exact"
   },
   {
     "id": 4,
@@ -54,7 +69,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/Daniel_Defo_Robinzon._Kruzoning_hayoti_va_ajoyib_sarguzashtlari.jpg",
     "local_image": "/books/4.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/robinzon-kruzoning-hayoti-va-ajoyib-sarguzashtlari/"
+    "cover_source_url": "https://mutolaa.com/uz/book/robinzon-kruzoning-hayoti-va-ajoyib-sarguzashtlari/",
+    "official_link_url": "https://mutolaa.com/uz/book/robinzon-kruzoning-hayoti-va-ajoyib-sarguzashtlari",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 5,
@@ -67,7 +87,12 @@
     "image": "https://covers.openlibrary.org/b/id/8236920-L.jpg",
     "local_image": "/books/5.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL74504W/White_Fang"
+    "cover_source_url": "https://openlibrary.org/works/OL74504W/White_Fang",
+    "official_link_url": "https://www.gutenberg.org/ebooks/910",
+    "official_link_label": "Project Gutenbergda o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "gutenberg",
+    "official_link_quality": "exact"
   },
   {
     "id": 6,
@@ -81,7 +106,12 @@
     "slug": "hayotga-muhabbat",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/Jek_London._Hayotga_muhabbat.jpg",
     "local_image": "/books/6.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/hayotga-muhabbat",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 7,
@@ -96,7 +126,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/Robert_Luis_Stivinson._Xazinalar_oroli._roman.jpg",
     "local_image": "/books/7.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/xazinalar-oroli/"
+    "cover_source_url": "https://mutolaa.com/uz/book/xazinalar-oroli/",
+    "official_link_url": "https://mutolaa.com/uz/book/xazinalar-oroli",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 8,
@@ -110,7 +145,12 @@
     "cover_source": "openlibrary",
     "cover_source_url": "https://openlibrary.org/works/OL27448W/The_Lord_of_the_Rings",
     "description": "J. R. R. Tolkienning yuqori fantasy romanida Frodo va uning hamrohlari Qudrat uzugini yo'q qilish uchun O'rta Yer bo'ylab xavfli safarga otlanadi. Asarda yaxshilik va yovuzlik kurashi, sadoqat, do'stlik va jasorat mavzulari markazda turadi.",
-    "description_source_url": "https://www.britannica.com/topic/The-Lord-of-the-Rings"
+    "description_source_url": "https://www.britannica.com/topic/The-Lord-of-the-Rings",
+    "official_link_url": "https://openlibrary.org/works/OL27448W/The_Lord_of_the_Rings",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 9,
@@ -124,7 +164,12 @@
     "cover_source": "openlibrary",
     "cover_source_url": "https://openlibrary.org/works/OL5735363W/The_Hunger_Games",
     "description": "Suzanne Collinsning distopik romanida Katniss Everdeen singlisi o'rniga Panem davlatidagi Hunger Games musobaqasiga ko'ngilli bo'ladi. Televideniye orqali namoyish etiladigan o'lim o'yini orqali asar zolim tuzum, omon qolish va qarshilik mavzularini ochadi.",
-    "description_source_url": "https://www.scholastic.com/parents/books-and-reading/book-lists-and-recommendations/series-characters-authors/more-suzanne-collins-underland-chronicles.html"
+    "description_source_url": "https://www.scholastic.com/parents/books-and-reading/book-lists-and-recommendations/series-characters-authors/more-suzanne-collins-underland-chronicles.html",
+    "official_link_url": "https://openlibrary.org/works/OL5735363W/The_Hunger_Games",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 10,
@@ -138,7 +183,12 @@
     "cover_source": "openlibrary",
     "cover_source_url": "https://openlibrary.org/works/OL1846076W/The_Giver",
     "description": "Lois Lowryning distopik romanida 12 yoshli Jonas go'yoki mukammal jamiyatda Xotiralar qabul qiluvchisi bo'lib tanlanadi. The Giver unga insoniyatning quvonch, og'riq, tanlov va xotira bilan bog'liq haqiqiy tajribalarini ochib beradi.",
-    "description_source_url": "https://openlibrary.org/books/OL24746720M/The_giver"
+    "description_source_url": "https://openlibrary.org/books/OL24746720M/The_giver",
+    "official_link_url": "https://openlibrary.org/works/OL1846076W/The_Giver",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 11,
@@ -152,7 +202,12 @@
     "slug": "alisa-mo-jizalar-mamlakatida",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/04/Lyuis_Kerrol._Alisa_mo%CA%BBjizalar_mamlakatida_ertak.jpg",
     "local_image": "/books/11.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/alisa-mo-jizalar-mamlakatida",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 12,
@@ -166,7 +221,12 @@
     "slug": "oliver-tvistning-boshidan-kechirganlari",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Charlz_Dikkens._oliver_tvist_boshdan_kechirganlar.jpg",
     "local_image": "/books/12.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/oliver-tvistning-boshidan-kechirganlari",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 13,
@@ -180,7 +240,12 @@
     "slug": "uch-mushketyor",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/05/Aleksandr_Dyuma._Uch_mushketyor_roman.png",
     "local_image": "/books/13.png",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/uch-mushketyor",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 14,
@@ -194,7 +259,12 @@
     "cover_source": "openlibrary",
     "cover_source_url": "https://openlibrary.org/works/OL18437639W/Journey_to_the_center_of_the_earth",
     "description": "Jules Verne romanida professor Otto Lidenbrock, jiyani Axel va yo'lboshchi Hans qadimiy yozuv izidan Islandiyadagi vulqon orqali Yer qa'riga tushadi. Ilmiy fantastika va sarguzasht uyg'unlashgan asarda ular g'orlar, yerosti dengizi va g'aroyib kashfiyotlarga duch keladi.",
-    "description_source_url": "https://www.britannica.com/topic/A-Journey-to-the-Centre-of-the-Earth"
+    "description_source_url": "https://www.britannica.com/topic/A-Journey-to-the-Centre-of-the-Earth",
+    "official_link_url": "https://www.gutenberg.org/ebooks/18857",
+    "official_link_label": "Project Gutenbergda o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "gutenberg",
+    "official_link_quality": "exact"
   },
   {
     "id": 15,
@@ -208,7 +278,12 @@
     "cover_source": "openlibrary",
     "cover_source_url": "https://openlibrary.org/works/OL1455042W/Heidi",
     "description": "Johanna Spyrining klassik bolalar romanida yetim Heidi Shveysariya Alp tog'larida bobosi bilan yashaydi. Tabiat, mehr va soddalik qizchaning o'zi va atrofidagi insonlar hayotini o'zgartirib, sog'ayish va mehr-oqibat g'oyalarini yoritadi.",
-    "description_source_url": "https://www.britannica.com/topic/Heidi-by-Spyri"
+    "description_source_url": "https://www.britannica.com/topic/Heidi-by-Spyri",
+    "official_link_url": "https://www.gutenberg.org/ebooks/1448",
+    "official_link_label": "Project Gutenbergda o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "gutenberg",
+    "official_link_quality": "exact"
   },
   {
     "id": 16,
@@ -221,7 +296,12 @@
     "image": "https://covers.openlibrary.org/b/id/14351077-L.jpg",
     "local_image": "/books/16.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL3140822W/To_Kill_a_Mockingbird"
+    "cover_source_url": "https://openlibrary.org/works/OL3140822W/To_Kill_a_Mockingbird",
+    "official_link_url": "https://openlibrary.org/works/OL3140822W/To_Kill_a_Mockingbird",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 17,
@@ -235,7 +315,12 @@
     "cover_source": "openlibrary",
     "cover_source_url": "https://openlibrary.org/works/OL69612W/The_Secret_Garden",
     "description": "Frances Hodgson Burnett romanida Mary Lennox ota-onasidan ayrilib, Angliyadagi amakisi mulkiga keladi. U yashirin bog'ni topib, do'stlik va tabiat yordamida o'zgaradi; bog' Mary va Colin uchun ruhiy hamda jismoniy tiklanish ramziga aylanadi.",
-    "description_source_url": "https://www.britannica.com/topic/The-Secret-Garden"
+    "description_source_url": "https://www.britannica.com/topic/The-Secret-Garden",
+    "official_link_url": "https://www.gutenberg.org/ebooks/17396",
+    "official_link_label": "Project Gutenbergda o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "gutenberg",
+    "official_link_quality": "exact"
   },
   {
     "id": 18,
@@ -250,7 +335,12 @@
     "image": "https://covers.openlibrary.org/b/id/10813656-L.jpg",
     "local_image": "/books/18.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/books/OL13443245M/Three_comrades"
+    "cover_source_url": "https://openlibrary.org/books/OL13443245M/Three_comrades",
+    "official_link_url": "https://mutolaa.com/uz/book/uch-og-ayni",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 19,
@@ -264,7 +354,12 @@
     "slug": "chol-va-dengiz",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Ernest_Heminguey._Chol_va_dengiz.jpg",
     "local_image": "/books/19.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/chol-va-dengiz",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 20,
@@ -279,7 +374,12 @@
     "image": "https://covers.openlibrary.org/b/id/11261770-L.jpg",
     "local_image": "/books/20.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL1168007W/Animal_Farm"
+    "cover_source_url": "https://openlibrary.org/works/OL1168007W/Animal_Farm",
+    "official_link_url": "https://mutolaa.com/uz/book/molxona",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 21,
@@ -293,7 +393,12 @@
     "slug": "o-tkan-kunlar",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/07/2024-07-29_14.58.02.jpg",
     "local_image": "/books/21.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/o-tkan-kunlar",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 22,
@@ -307,7 +412,12 @@
     "slug": "mehrobdan-chayon-roman",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/mehrobdan_chayon_2.jpg",
     "local_image": "/books/22.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/mehrobdan-chayon-roman",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 23,
@@ -321,7 +431,12 @@
     "slug": "kecha-va-kunduz",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/05/photo_2024-05-27_09-37-56.jpg",
     "local_image": "/books/23.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/kecha-va-kunduz",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 24,
@@ -335,7 +450,12 @@
     "slug": "dunyoning-ishlari",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/dunyoning_ishlari.png",
     "local_image": "/books/24.png",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/dunyoning-ishlari",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 25,
@@ -349,7 +469,12 @@
     "slug": "bahor-qaytmaydi",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/04/Bahor_qaytmaydi.jpg",
     "local_image": "/books/25.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/bahor-qaytmaydi",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 26,
@@ -363,7 +488,12 @@
     "slug": "yulduzli-tunlar",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/yulduzli_tunlar_H2f0X0d.jpg",
     "local_image": "/books/26.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/yulduzli-tunlar",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 27,
@@ -377,7 +507,12 @@
     "slug": "kelinlar-qo-zg-oloni",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/05/Kelinlar_qozgaloni.jpg",
     "local_image": "/books/27.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/kelinlar-qo-zg-oloni",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 28,
@@ -391,7 +526,12 @@
     "slug": "shum-bola",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/G%CA%BBafur_G%CA%BBulom._shum_bola.jpg",
     "local_image": "/books/28.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/shum-bola",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 29,
@@ -405,7 +545,12 @@
     "slug": "sariq-devni-minib",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/02/Xudoybersi_To%CA%BBxtaboyev._Sariq_devni_minib.jpg",
     "local_image": "/books/29.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/sariq-devni-minib",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 30,
@@ -419,7 +564,12 @@
     "cover_source": "ziyouz",
     "cover_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/xudoyberdi-to-xtaboyev-sehrli-qalpoqcha-qissa",
     "description": "Xudoyberdi To'xtaboyevning bolalar uchun yozilgan fantastik-sarguzasht qissasi. Sehrli qalpoqcha atrofida kechadigan voqealar bolalarning qiziquvchanligi, tasavvuri va mas'uliyatini sinovdan o'tkazadi.",
-    "description_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/xudoyberdi-to-xtaboyev-sehrli-qalpoqcha-qissa"
+    "description_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/xudoyberdi-to-xtaboyev-sehrli-qalpoqcha-qissa",
+    "official_link_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/xudoyberdi-to-xtaboyev-sehrli-qalpoqcha-qissa",
+    "official_link_label": "Ziyouzdan o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "ziyouz",
+    "official_link_quality": "exact"
   },
   {
     "id": 31,
@@ -431,7 +581,13 @@
     "local_image": "/books/31.svg",
     "cover_source": "generated-after-search",
     "description": "H. Nurillayev nomi bilan berilgan ushbu asar uchun ochiq manbalarda ishonchli annotatsiya topilmadi. Ro'yxatda u o'smirlar uchun tavsiya etilgan kitob sifatida saqlangan; sarlavha saxovat, mehr-oqibat va insoniy yordam g'oyalariga ishora qiladi.",
-    "description_source_url": ""
+    "description_source_url": "",
+    "official_link_url": "https://search.worldcat.org/search?q=Himmat%20H.%20Nurillayev",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 32,
@@ -443,7 +599,13 @@
     "local_image": "/books/32.svg",
     "cover_source": "generated-after-search",
     "description": "O'tkir Rashid o'zbek adabiy muhitida shoir sifatida uchraydi, ammo aynan “Nega men yig'layapman” nomli asar uchun ochiq manbalarda ishonchli annotatsiya topilmadi. Shu sabab tavsif lirik kechinma va ichki savol ohangidagi asar sifatida ehtiyotkorlik bilan berildi.",
-    "description_source_url": "https://uzbekbibliography.library.illinois.edu/Content/PDFs/7.1968.pdf.ocr_letopispechati.pdf"
+    "description_source_url": "https://uzbekbibliography.library.illinois.edu/Content/PDFs/7.1968.pdf.ocr_letopispechati.pdf",
+    "official_link_url": "https://search.worldcat.org/search?q=Nega%20men%20yig'layapman%20Utkir%20Rashid",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 33,
@@ -457,7 +619,12 @@
     "slug": "ruhlar-isyoni",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/03/Erkin_Vohidov._Ruhlar_isyoni.jpg",
     "local_image": "/books/33.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/ruhlar-isyoni",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 34,
@@ -471,7 +638,12 @@
     "cover_source": "ziyouz",
     "cover_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/sharof-rashidov-asarlar-5-jildlik-2-jild-bo-rondan-kuchli-roman",
     "description": "Sharof Rashidovning “G'oliblar” asarining bevosita davomi sifatida ko'rsatiladigan roman. Unda urushdan keyingi davr ruhi, mehnat sinovlari, iroda va jamiyatdagi o'zgarishlar mavzusi davom ettiriladi.",
-    "description_source_url": "https://akbt.tkti.uz/uz/books/16235"
+    "description_source_url": "https://akbt.tkti.uz/uz/books/16235",
+    "official_link_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/sharof-rashidov-asarlar-5-jildlik-2-jild-bo-rondan-kuchli-roman",
+    "official_link_label": "Ziyouzdan o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "ziyouz",
+    "official_link_quality": "exact"
   },
   {
     "id": 35,
@@ -485,7 +657,12 @@
     "slug": "zaynab-va-omon",
     "image": "https://5a10167e-233a-41f7-b60b-80a785e094d1.srvstatic.uz/media/books/2024/06/Hamid_Olimjon._Zaynab_va_Omon_doston.jpg",
     "local_image": "/books/35.jpg",
-    "cover_source": "existing-local"
+    "cover_source": "existing-local",
+    "official_link_url": "https://mutolaa.com/uz/book/zaynab-va-omon",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 36,
@@ -497,7 +674,13 @@
     "local_image": "/books/36.svg",
     "cover_source": "generated-after-search",
     "description": "Said Baraka nomi bilan berilgan “Sirdaryo afsonalari” uchun ochiq manbalarda ishonchli annotatsiya topilmadi. Sarlavha Sirdaryo vohasi bilan bog'liq xalqona rivoyatlar, tarixiy xotira va afsonaviy obrazlarga ishora qiladi.",
-    "description_source_url": ""
+    "description_source_url": "",
+    "official_link_url": "https://search.worldcat.org/search?q=Sirdaryo%20afsonalari%20Said%20Baraka",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 37,
@@ -509,7 +692,13 @@
     "local_image": "/books/37.svg",
     "cover_source": "generated-after-search",
     "description": "Zafar Diyor o'zbek bolalar shoiri sifatida tanilgan; uning bolalarga bag'ishlangan she'rlari sodda, quvnoq va xalqchil ruhda yozilgan. “Quvnoq bolalar” uchun alohida annotatsiya topilmadi, shuning uchun tavsif shoir ijodining tasdiqlangan yo'nalishiga tayandi.",
-    "description_source_url": "https://uzsmart.uz/encyclopedia/encyclopedia/66773.html"
+    "description_source_url": "https://uzsmart.uz/encyclopedia/encyclopedia/66773.html",
+    "official_link_url": "https://search.worldcat.org/search?q=Quvnoq%20bolalar%20Zafar%20Diyor",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 38,
@@ -522,7 +711,12 @@
     "image": "https://covers.openlibrary.org/b/id/14627509-L.jpg",
     "local_image": "/books/38.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL27482W"
+    "cover_source_url": "https://openlibrary.org/works/OL27482W",
+    "official_link_url": "https://openlibrary.org/works/OL27482W",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 39,
@@ -537,7 +731,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/jyul_vern._kapitan_grant_bolalar.jpg",
     "local_image": "/books/39.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/kapitan-grant-bolalari/"
+    "cover_source_url": "https://mutolaa.com/uz/book/kapitan-grant-bolalari/",
+    "official_link_url": "https://mutolaa.com/uz/book/kapitan-grant-bolalari",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 40,
@@ -552,7 +751,12 @@
     "local_image": "/books/40.jpg",
     "cover_source": "openlibrary",
     "cover_source_url": "https://openlibrary.org/works/OL262421W",
-    "description_source_url": "https://www.britannica.com/topic/The-Adventures-of-Sherlock-Holmes-by-Conan-Doyle"
+    "description_source_url": "https://www.britannica.com/topic/The-Adventures-of-Sherlock-Holmes-by-Conan-Doyle",
+    "official_link_url": "https://www.gutenberg.org/ebooks/1661",
+    "official_link_label": "Project Gutenbergda o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "gutenberg",
+    "official_link_quality": "exact"
   },
   {
     "id": 41,
@@ -565,7 +769,12 @@
     "image": "https://covers.openlibrary.org/b/id/3344204-L.jpg",
     "local_image": "/books/41.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL19870W"
+    "cover_source_url": "https://openlibrary.org/works/OL19870W",
+    "official_link_url": "https://www.gutenberg.org/ebooks/236",
+    "official_link_label": "Project Gutenbergda o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "gutenberg",
+    "official_link_quality": "exact"
   },
   {
     "id": 42,
@@ -580,7 +789,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/04/Jonatan_Svift._Guliverning_sayohatlari_roman.jpg",
     "local_image": "/books/42.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/gulliverning-sayohatlari/"
+    "cover_source_url": "https://mutolaa.com/uz/book/gulliverning-sayohatlari/",
+    "official_link_url": "https://mutolaa.com/uz/book/gulliverning-sayohatlari",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 43,
@@ -593,7 +807,12 @@
     "image": "https://covers.openlibrary.org/b/id/8574580-L.jpg",
     "local_image": "/books/43.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL2271626W"
+    "cover_source_url": "https://openlibrary.org/works/OL2271626W",
+    "official_link_url": "https://openlibrary.org/works/OL2271626W",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 44,
@@ -606,7 +825,12 @@
     "image": "https://covers.openlibrary.org/b/id/8138433-L.jpg",
     "local_image": "/books/44.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/books/OL16937756M/Pippi_Longstocking"
+    "cover_source_url": "https://openlibrary.org/books/OL16937756M/Pippi_Longstocking",
+    "official_link_url": "https://openlibrary.org/books/OL16937756M/Pippi_Longstocking",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 45,
@@ -619,7 +843,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/Oybek._Bolalik_xotiralarim.jpg",
     "local_image": "/books/45.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/bolalik-xotiralarim/"
+    "cover_source_url": "https://mutolaa.com/uz/book/bolalik-xotiralarim/",
+    "official_link_url": "https://mutolaa.com/uz/book/bolalik-xotiralarim/",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 46,
@@ -634,7 +863,12 @@
     "slug": "ufq-bo-sag-asida-ufq-3-kitob",
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/ufq_1kitob.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/qirq-besh-kun-ufq-1-kitob/"
+    "cover_source_url": "https://mutolaa.com/uz/book/qirq-besh-kun-ufq-1-kitob/",
+    "official_link_url": "https://mutolaa.com/uz/book/ufq-bo-sag-asida-ufq-3-kitob",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 47,
@@ -649,7 +883,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/Odil_Yoqubov._Ulug%CA%BBbek_xazinasi.jpg",
     "local_image": "/books/47.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/ulug-bek-xazinasi/"
+    "cover_source_url": "https://mutolaa.com/uz/book/ulug-bek-xazinasi/",
+    "official_link_url": "https://mutolaa.com/uz/book/ulug-bek-xazinasi",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 48,
@@ -660,7 +899,13 @@
     "type": "uzbek",
     "description": "Yoshlik, sport va do'stlik haqida",
     "local_image": "/books/48.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "official_link_url": "https://search.worldcat.org/search?q=Ko'k%20ot%20Mirmuhsin",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 49,
@@ -675,7 +920,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/04/Xudoyberdi_To%CA%BBxtaboyev._Besh_bolali_yigitcha_roman.jpg",
     "local_image": "/books/49.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/besh-bolali-yigitcha/"
+    "cover_source_url": "https://mutolaa.com/uz/book/besh-bolali-yigitcha/",
+    "official_link_url": "https://mutolaa.com/uz/book/besh-bolali-yigitcha",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 50,
@@ -690,7 +940,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/Alpomish_doston.jpg",
     "local_image": "/books/50.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/alpomish/"
+    "cover_source_url": "https://mutolaa.com/uz/book/alpomish/",
+    "official_link_url": "https://mutolaa.com/uz/book/alpomish",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 51,
@@ -701,7 +956,13 @@
     "type": "uzbek",
     "description": "Qishloq hayoti va insoniy qadriyatlar",
     "local_image": "/books/51.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "official_link_url": "https://n.ziyouz.com/portal-haqida/xarita/uzbek-nasri/abdulla-qahhor-1907-1968/abdulla-qahhor-qo-shchinor-chiroqlari-roman",
+    "official_link_label": "Ziyouzdan o'qish/yuklab olish",
+    "official_link_type": "download",
+    "official_link_source": "ziyouz",
+    "official_link_quality": "exact-title-author-mismatch",
+    "official_link_note": "Rasmiy manbada asar muallifi Abdulla Qahhor deb berilgan."
   },
   {
     "id": 52,
@@ -712,7 +973,13 @@
     "type": "uzbek",
     "description": "Yoshlarga mo'ljallangan badiiy hikoyalar",
     "local_image": "/books/52.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "official_link_url": "https://search.worldcat.org/search?q=Shamol%20aytgan%20qo'shiq%20Nazar%20Eshonqul",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 53,
@@ -727,7 +994,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/Tog%CA%BBay_Murod._Otamdan_qolgan_dalalar.jpg",
     "local_image": "/books/53.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/otamdan-qolgan-dalalar/"
+    "cover_source_url": "https://mutolaa.com/uz/book/otamdan-qolgan-dalalar/",
+    "official_link_url": "https://mutolaa.com/uz/book/otamdan-qolgan-dalalar",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 54,
@@ -740,7 +1012,13 @@
     "image": "https://kitobxon.com/img_knigi/3849.jpg",
     "local_image": "/books/54.jpg",
     "cover_source": "kitobxon",
-    "cover_source_url": "https://kitobxon.com/oz/kitob/abdulla-oripov-sherlar"
+    "cover_source_url": "https://kitobxon.com/oz/kitob/abdulla-oripov-sherlar",
+    "official_link_url": "https://kitobxon.com/oz/kitob/abdulla-oripov-sherlar",
+    "official_link_label": "Kitobxon.com dan sotib olish",
+    "official_link_type": "buy",
+    "official_link_source": "kitobxon",
+    "official_link_quality": "closest-official",
+    "official_link_note": "Aniq shu to'plam topilmadi; Abdulla Oripov she'rlari uchun rasmiy sotuv sahifasi."
   },
   {
     "id": 55,
@@ -753,7 +1031,12 @@
     "image": "https://covers.openlibrary.org/b/id/8512767-L.jpg",
     "local_image": "/books/55.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/books/OL7664930M"
+    "cover_source_url": "https://openlibrary.org/books/OL7664930M",
+    "official_link_url": "https://openlibrary.org/books/OL7664930M",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 56,
@@ -768,7 +1051,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/IMG_20240201_135352_148.png",
     "local_image": "/books/56.png",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/alkimyogar/"
+    "cover_source_url": "https://mutolaa.com/uz/book/alkimyogar/",
+    "official_link_url": "https://mutolaa.com/uz/book/alkimyogar",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 57,
@@ -783,7 +1071,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/11/Jeyms_Klir._Atom_odatlar.jpg",
     "local_image": "/books/57.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/atom-odatlar/"
+    "cover_source_url": "https://mutolaa.com/uz/book/atom-odatlar/",
+    "official_link_url": "https://mutolaa.com/uz/book/atom-odatlar",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 58,
@@ -798,7 +1091,12 @@
     "image": "https://covers.openlibrary.org/b/id/13314878-L.jpg",
     "local_image": "/books/58.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL1063267W"
+    "cover_source_url": "https://openlibrary.org/works/OL1063267W",
+    "official_link_url": "https://mutolaa.com/uz/book/do-stlar-orttirish-va-odamlarga-tasir-o-tkazish-xususida",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 59,
@@ -813,7 +1111,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/03/Fyodor_Dostoyevskiy._Jinoyat_va_jazo.jpg",
     "local_image": "/books/59.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/jinoyat-va-jazo/"
+    "cover_source_url": "https://mutolaa.com/uz/book/jinoyat-va-jazo/",
+    "official_link_url": "https://mutolaa.com/uz/book/jinoyat-va-jazo",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 60,
@@ -828,7 +1131,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/Lev_Tolstoy._Anna_Karenina_roman_.jpg",
     "local_image": "/books/60.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/anna-karenina/"
+    "cover_source_url": "https://mutolaa.com/uz/book/anna-karenina/",
+    "official_link_url": "https://mutolaa.com/uz/book/anna-karenina",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 61,
@@ -843,7 +1151,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/11/1-book.jpg",
     "local_image": "/books/61.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/book-1984/"
+    "cover_source_url": "https://mutolaa.com/uz/book/book-1984/",
+    "official_link_url": "https://mutolaa.com/uz/book/book-1984",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 62,
@@ -856,7 +1169,12 @@
     "image": "https://covers.openlibrary.org/b/id/8634250-L.jpg",
     "local_image": "/books/62.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL17075811W"
+    "cover_source_url": "https://openlibrary.org/works/OL17075811W",
+    "official_link_url": "https://openlibrary.org/works/OL17075811W",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 63,
@@ -871,7 +1189,12 @@
     "image": "https://covers.openlibrary.org/b/id/10389354-L.jpg",
     "local_image": "/books/63.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL21640039W"
+    "cover_source_url": "https://openlibrary.org/works/OL21640039W",
+    "official_link_url": "https://mutolaa.com/uz/book/pul-psixologiyasi",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 64,
@@ -884,7 +1207,12 @@
     "image": "https://covers.openlibrary.org/b/id/8315603-L.jpg",
     "local_image": "/books/64.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL2010879W"
+    "cover_source_url": "https://openlibrary.org/works/OL2010879W",
+    "official_link_url": "https://openlibrary.org/works/OL2010879W",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 65,
@@ -897,7 +1225,12 @@
     "image": "https://covers.openlibrary.org/b/id/10079937-L.jpg",
     "local_image": "/books/65.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL2629977W"
+    "cover_source_url": "https://openlibrary.org/works/OL2629977W",
+    "official_link_url": "https://openlibrary.org/works/OL2629977W",
+    "official_link_label": "OpenLibrary da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "openlibrary",
+    "official_link_quality": "exact"
   },
   {
     "id": 66,
@@ -912,7 +1245,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/04/Gabriel_Garsia_Markes._Yolg%CA%BBizlikning_yuz_yili_roman.jpg",
     "local_image": "/books/66.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/yolg-izlikning-yuz-yili/"
+    "cover_source_url": "https://mutolaa.com/uz/book/yolg-izlikning-yuz-yili/",
+    "official_link_url": "https://mutolaa.com/uz/book/yolg-izlikning-yuz-yili",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 67,
@@ -927,7 +1265,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/Alber_Kamyu._Begona_qissa.png",
     "local_image": "/books/67.png",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/begona-1/"
+    "cover_source_url": "https://mutolaa.com/uz/book/begona-1/",
+    "official_link_url": "https://mutolaa.com/uz/book/begona-1",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 68,
@@ -942,7 +1285,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/04/Erix_Mariya_Remark._Esizgina_yoshligim.png",
     "local_image": "/books/68.png",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/g-arbiy-frontda-o-zgarish-yo-q-esizgina-yoshligim/"
+    "cover_source_url": "https://mutolaa.com/uz/book/g-arbiy-frontda-o-zgarish-yo-q-esizgina-yoshligim/",
+    "official_link_url": "https://mutolaa.com/uz/book/g-arbiy-frontda-o-zgarish-yo-q-esizgina-yoshligim",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 69,
@@ -955,7 +1303,12 @@
     "image": "https://kitobxon.com/img_knigi/5571.jpg",
     "local_image": "/books/69.jpg",
     "cover_source": "kitobxon",
-    "cover_source_url": "https://kitobxon.com/oz/kitob/abdulla-oripov-tanlangan-asarlar"
+    "cover_source_url": "https://kitobxon.com/oz/kitob/abdulla-oripov-tanlangan-asarlar",
+    "official_link_url": "https://kitobxon.com/oz/kitob/abdulla-oripov-tanlangan-asarlar",
+    "official_link_label": "Kitobxon.com dan sotib olish",
+    "official_link_type": "buy",
+    "official_link_source": "kitobxon",
+    "official_link_quality": "exact"
   },
   {
     "id": 70,
@@ -968,7 +1321,13 @@
     "image": "https://kitobxon.com/img_knigi/5572.jpg",
     "local_image": "/books/70.jpg",
     "cover_source": "kitobxon",
-    "cover_source_url": "https://kitobxon.com/oz/kitob/erkin-vohidov-tanlangan-asarlar"
+    "cover_source_url": "https://kitobxon.com/oz/kitob/erkin-vohidov-tanlangan-asarlar",
+    "official_link_url": "https://kitobxon.com/oz/kitob/erkin-vohidov-tanlangan-asarlar",
+    "official_link_label": "Kitobxon.com dan sotib olish",
+    "official_link_type": "buy",
+    "official_link_source": "kitobxon",
+    "official_link_quality": "closest-official",
+    "official_link_note": "Aniq 'Ruboiylar va dostonlar' sahifasi topilmadi; Erkin Vohidov tanlangan asarlari sahifasi."
   },
   {
     "id": 71,
@@ -983,7 +1342,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2025/09/Tog%CA%BBay_Murod._Bu_dunyoda_o%CA%BBlib_bo%CA%BBlmaydi_roman.png",
     "local_image": "/books/71.png",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/bu-dunyoda-o-lib-bo-lmaydi/"
+    "cover_source_url": "https://mutolaa.com/uz/book/bu-dunyoda-o-lib-bo-lmaydi/",
+    "official_link_url": "https://mutolaa.com/uz/book/bu-dunyoda-o-lib-bo-lmaydi",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 72,
@@ -994,7 +1358,13 @@
     "type": "uzbek",
     "description": "Qisqa hikoyalar — milliy xarakter va turmush",
     "local_image": "/books/72.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "official_link_url": "https://search.worldcat.org/search?q=Dafn%20marosimi%20Shukur%20Xolmirzayev",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 73,
@@ -1005,7 +1375,13 @@
     "type": "uzbek",
     "description": "Zamonaviy o'zbek nasrida mistik roman",
     "local_image": "/books/73.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "official_link_url": "https://search.worldcat.org/search?q=Labirint%20Nazar%20Eshonqul",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 74,
@@ -1016,7 +1392,13 @@
     "type": "uzbek",
     "description": "Yoshlik xotiralari va insoniy qadriyatlar",
     "local_image": "/books/74.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "official_link_url": "https://search.worldcat.org/search?q=Alvido%2C%20bolaligim!%20Ulmas%20Umarbekov",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 75,
@@ -1029,7 +1411,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/Xurshid_Davron._She%CA%BCrlar_to%CA%BBplam.jpg",
     "local_image": "/books/75.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/sherlar-140/"
+    "cover_source_url": "https://mutolaa.com/uz/book/sherlar-140/",
+    "official_link_url": "https://mutolaa.com/uz/book/sherlar-140/",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 76,
@@ -1042,7 +1429,13 @@
     "image": "https://kitobxon.com/img_knigi/3852.jpg",
     "local_image": "/books/76.jpg",
     "cover_source": "kitobxon",
-    "cover_source_url": "https://kitobxon.com/oz/kitob/muhammad-yusuf-sherlar"
+    "cover_source_url": "https://kitobxon.com/oz/kitob/muhammad-yusuf-sherlar",
+    "official_link_url": "https://kitobxon.com/oz/kitob/muhammad-yusuf-sherlar",
+    "official_link_label": "Kitobxon.com dan sotib olish",
+    "official_link_type": "buy",
+    "official_link_source": "kitobxon",
+    "official_link_quality": "closest-official",
+    "official_link_note": "Aniq shu nomdagi sahifa topilmadi; Muhammad Yusuf she'rlari uchun rasmiy sotuv sahifasi."
   },
   {
     "id": 77,
@@ -1053,7 +1446,13 @@
     "type": "uzbek",
     "description": "Tarixiy-badiiy roman — ilm va ma'rifat haqida",
     "local_image": "/books/77.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "official_link_url": "https://search.worldcat.org/search?q=Mushtariy%20Hamidulla%20Boltaboyev",
+    "official_link_label": "WorldCatda qidirish",
+    "official_link_type": "search",
+    "official_link_source": "worldcat",
+    "official_link_quality": "search-fallback",
+    "official_link_note": "Aniq rasmiy e-book yoki sotuv sahifasi topilmadi; legal kutubxona katalogida qidiruv sahifasi berildi."
   },
   {
     "id": 78,
@@ -1068,7 +1467,12 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/05/Sa%CA%BCdiy_Sheroziy._Guliston_to%CA%BBplam.jpg",
     "local_image": "/books/78.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/guliston/"
+    "cover_source_url": "https://mutolaa.com/uz/book/guliston/",
+    "official_link_url": "https://mutolaa.com/uz/book/guliston",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   },
   {
     "id": 79,
@@ -1083,6 +1487,11 @@
     "image": "https://cdn-minio.mutolaa.com/media/books/2024/02/Alisher_Navoiy._Farhod_va_Shirin.jpg",
     "local_image": "/books/79.jpg",
     "cover_source": "mutolaa",
-    "cover_source_url": "https://mutolaa.com/uz/book/farhod-va-shirin-nasriy-bayoni/"
+    "cover_source_url": "https://mutolaa.com/uz/book/farhod-va-shirin-nasriy-bayoni/",
+    "official_link_url": "https://mutolaa.com/uz/book/farhod-va-shirin-nasriy-bayoni",
+    "official_link_label": "Mutolaa.com da o'qish",
+    "official_link_type": "read",
+    "official_link_source": "mutolaa",
+    "official_link_quality": "exact"
   }
 ]

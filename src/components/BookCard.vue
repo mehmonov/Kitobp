@@ -51,13 +51,17 @@
           </p>
           
           <a 
-            v-if="book.slug"
-            :href="'https://mutolaa.com/uz/book/' + book.slug" 
+            v-if="officialLink"
+            :href="officialLink" 
             target="_blank"
+            rel="noopener noreferrer"
             class="inline-block bg-white text-black font-bold py-3 px-6 rounded-full hover:bg-gray-200 transition duration-300"
           >
-            Mutolaa.com da o'qish
+            {{ officialLinkLabel }}
           </a>
+          <p v-if="book.official_link_note" class="mt-2 text-xs leading-relaxed text-gray-500">
+            {{ book.official_link_note }}
+          </p>
         </div>
       </div>
     </div>
@@ -65,7 +69,7 @@
 </template>
 
 <script>
-import { ref } from 'vue';
+import { computed, ref } from 'vue';
 
 export default {
   name: 'BookCard',
@@ -75,8 +79,16 @@ export default {
       required: true,
     },
   },
-  setup() {
+  setup(props) {
     const showModal = ref(false);
+    const officialLink = computed(() => {
+      if (props.book.official_link_url) return props.book.official_link_url;
+      if (props.book.slug) return `https://mutolaa.com/uz/book/${props.book.slug}`;
+      return '';
+    });
+    const officialLinkLabel = computed(() => (
+      props.book.official_link_label || "Onlayn o'qish"
+    ));
 
     const openModal = () => {
       showModal.value = true;
@@ -90,6 +102,8 @@ export default {
 
     return {
       showModal,
+      officialLink,
+      officialLinkLabel,
       openModal,
       closeModal
     };

@@ -37,7 +37,9 @@
     "image": "https://covers.openlibrary.org/b/id/8157718-L.jpg",
     "local_image": "/books/3.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL53908W/Adventures_of_Huckleberry_Finn"
+    "cover_source_url": "https://openlibrary.org/works/OL53908W/Adventures_of_Huckleberry_Finn",
+    "description": "Mark Tvenning romanida Heklberri Finn zo'ravon otasidan qochib, quldorlikdan qochgan Jim bilan Missisipi daryosi bo'ylab safarga chiqadi. Yo'l davomida u erkinlik, do'stlik va jamiyatdagi adolatsizliklar haqida muhim xulosalarga keladi.",
+    "description_source_url": "https://www.britannica.com/topic/Adventures-of-Huckleberry-Finn-novel-by-Twain"
   },
   {
     "id": 4,
@@ -106,7 +108,9 @@
     "image": "https://covers.openlibrary.org/b/id/14625765-L.jpg",
     "local_image": "/books/8.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL27448W/The_Lord_of_the_Rings"
+    "cover_source_url": "https://openlibrary.org/works/OL27448W/The_Lord_of_the_Rings",
+    "description": "J. R. R. Tolkienning yuqori fantasy romanida Frodo va uning hamrohlari Qudrat uzugini yo'q qilish uchun O'rta Yer bo'ylab xavfli safarga otlanadi. Asarda yaxshilik va yovuzlik kurashi, sadoqat, do'stlik va jasorat mavzulari markazda turadi.",
+    "description_source_url": "https://www.britannica.com/topic/The-Lord-of-the-Rings"
   },
   {
     "id": 9,
@@ -118,7 +122,9 @@
     "image": "https://covers.openlibrary.org/b/id/12646537-L.jpg",
     "local_image": "/books/9.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL5735363W/The_Hunger_Games"
+    "cover_source_url": "https://openlibrary.org/works/OL5735363W/The_Hunger_Games",
+    "description": "Suzanne Collinsning distopik romanida Katniss Everdeen singlisi o'rniga Panem davlatidagi Hunger Games musobaqasiga ko'ngilli bo'ladi. Televideniye orqali namoyish etiladigan o'lim o'yini orqali asar zolim tuzum, omon qolish va qarshilik mavzularini ochadi.",
+    "description_source_url": "https://www.scholastic.com/parents/books-and-reading/book-lists-and-recommendations/series-characters-authors/more-suzanne-collins-underland-chronicles.html"
   },
   {
     "id": 10,
@@ -130,7 +136,9 @@
     "image": "https://covers.openlibrary.org/b/id/8352502-L.jpg",
     "local_image": "/books/10.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL1846076W/The_Giver"
+    "cover_source_url": "https://openlibrary.org/works/OL1846076W/The_Giver",
+    "description": "Lois Lowryning distopik romanida 12 yoshli Jonas go'yoki mukammal jamiyatda Xotiralar qabul qiluvchisi bo'lib tanlanadi. The Giver unga insoniyatning quvonch, og'riq, tanlov va xotira bilan bog'liq haqiqiy tajribalarini ochib beradi.",
+    "description_source_url": "https://openlibrary.org/books/OL24746720M/The_giver"
   },
   {
     "id": 11,
@@ -184,7 +192,9 @@
     "image": "https://covers.openlibrary.org/b/id/8359565-L.jpg",
     "local_image": "/books/14.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL18437639W/Journey_to_the_center_of_the_earth"
+    "cover_source_url": "https://openlibrary.org/works/OL18437639W/Journey_to_the_center_of_the_earth",
+    "description": "Jules Verne romanida professor Otto Lidenbrock, jiyani Axel va yo'lboshchi Hans qadimiy yozuv izidan Islandiyadagi vulqon orqali Yer qa'riga tushadi. Ilmiy fantastika va sarguzasht uyg'unlashgan asarda ular g'orlar, yerosti dengizi va g'aroyib kashfiyotlarga duch keladi.",
+    "description_source_url": "https://www.britannica.com/topic/A-Journey-to-the-Centre-of-the-Earth"
   },
   {
     "id": 15,
@@ -196,7 +206,9 @@
     "image": "https://covers.openlibrary.org/b/id/2668686-L.jpg",
     "local_image": "/books/15.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL1455042W/Heidi"
+    "cover_source_url": "https://openlibrary.org/works/OL1455042W/Heidi",
+    "description": "Johanna Spyrining klassik bolalar romanida yetim Heidi Shveysariya Alp tog'larida bobosi bilan yashaydi. Tabiat, mehr va soddalik qizchaning o'zi va atrofidagi insonlar hayotini o'zgartirib, sog'ayish va mehr-oqibat g'oyalarini yoritadi.",
+    "description_source_url": "https://www.britannica.com/topic/Heidi-by-Spyri"
   },
   {
     "id": 16,
@@ -221,7 +233,9 @@
     "image": "https://covers.openlibrary.org/b/id/12622062-L.jpg",
     "local_image": "/books/17.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL69612W/The_Secret_Garden"
+    "cover_source_url": "https://openlibrary.org/works/OL69612W/The_Secret_Garden",
+    "description": "Frances Hodgson Burnett romanida Mary Lennox ota-onasidan ayrilib, Angliyadagi amakisi mulkiga keladi. U yashirin bog'ni topib, do'stlik va tabiat yordamida o'zgaradi; bog' Mary va Colin uchun ruhiy hamda jismoniy tiklanish ramziga aylanadi.",
+    "description_source_url": "https://www.britannica.com/topic/The-Secret-Garden"
   },
   {
     "id": 18,
@@ -403,7 +417,9 @@
     "image": "https://n.ziyouz.com/images/bookcover/bolalar_kutubxonasi/Xudoyberdi%20To%27xtaboyev.%20Sehrli%20qalpoqcha%20%28qissa%29.jpg",
     "local_image": "/books/30.jpg",
     "cover_source": "ziyouz",
-    "cover_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/xudoyberdi-to-xtaboyev-sehrli-qalpoqcha-qissa"
+    "cover_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/xudoyberdi-to-xtaboyev-sehrli-qalpoqcha-qissa",
+    "description": "Xudoyberdi To'xtaboyevning bolalar uchun yozilgan fantastik-sarguzasht qissasi. Sehrli qalpoqcha atrofida kechadigan voqealar bolalarning qiziquvchanligi, tasavvuri va mas'uliyatini sinovdan o'tkazadi.",
+    "description_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/xudoyberdi-to-xtaboyev-sehrli-qalpoqcha-qissa"
   },
   {
     "id": 31,
@@ -413,7 +429,9 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "local_image": "/books/31.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "description": "H. Nurillayev nomi bilan berilgan ushbu asar uchun ochiq manbalarda ishonchli annotatsiya topilmadi. Ro'yxatda u o'smirlar uchun tavsiya etilgan kitob sifatida saqlangan; sarlavha saxovat, mehr-oqibat va insoniy yordam g'oyalariga ishora qiladi.",
+    "description_source_url": ""
   },
   {
     "id": 32,
@@ -423,7 +441,9 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "local_image": "/books/32.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "description": "O'tkir Rashid o'zbek adabiy muhitida shoir sifatida uchraydi, ammo aynan “Nega men yig'layapman” nomli asar uchun ochiq manbalarda ishonchli annotatsiya topilmadi. Shu sabab tavsif lirik kechinma va ichki savol ohangidagi asar sifatida ehtiyotkorlik bilan berildi.",
+    "description_source_url": "https://uzbekbibliography.library.illinois.edu/Content/PDFs/7.1968.pdf.ocr_letopispechati.pdf"
   },
   {
     "id": 33,
@@ -449,7 +469,9 @@
     "image": "https://n.ziyouz.com/images/bookcover/uzbek_nasri/Sharof%20Rashidov.%20Asarlar.%205%20jildlik.%202-jild.%20Bo%27rondan%20kuchli%20%28roman%29.jpg",
     "local_image": "/books/34.jpg",
     "cover_source": "ziyouz",
-    "cover_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/sharof-rashidov-asarlar-5-jildlik-2-jild-bo-rondan-kuchli-roman"
+    "cover_source_url": "https://n.ziyouz.com/portal-haqida/xarita/yangi-kitoblar/sharof-rashidov-asarlar-5-jildlik-2-jild-bo-rondan-kuchli-roman",
+    "description": "Sharof Rashidovning “G'oliblar” asarining bevosita davomi sifatida ko'rsatiladigan roman. Unda urushdan keyingi davr ruhi, mehnat sinovlari, iroda va jamiyatdagi o'zgarishlar mavzusi davom ettiriladi.",
+    "description_source_url": "https://akbt.tkti.uz/uz/books/16235"
   },
   {
     "id": 35,
@@ -473,7 +495,9 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "local_image": "/books/36.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "description": "Said Baraka nomi bilan berilgan “Sirdaryo afsonalari” uchun ochiq manbalarda ishonchli annotatsiya topilmadi. Sarlavha Sirdaryo vohasi bilan bog'liq xalqona rivoyatlar, tarixiy xotira va afsonaviy obrazlarga ishora qiladi.",
+    "description_source_url": ""
   },
   {
     "id": 37,
@@ -483,7 +507,9 @@
     "genre": "O'zbek adabiyoti",
     "type": "uzbek",
     "local_image": "/books/37.svg",
-    "cover_source": "generated-after-search"
+    "cover_source": "generated-after-search",
+    "description": "Zafar Diyor o'zbek bolalar shoiri sifatida tanilgan; uning bolalarga bag'ishlangan she'rlari sodda, quvnoq va xalqchil ruhda yozilgan. “Quvnoq bolalar” uchun alohida annotatsiya topilmadi, shuning uchun tavsif shoir ijodining tasdiqlangan yo'nalishiga tayandi.",
+    "description_source_url": "https://uzsmart.uz/encyclopedia/encyclopedia/66773.html"
   },
   {
     "id": 38,
@@ -520,12 +546,13 @@
     "age_category": "11-15",
     "genre": "Jahon adabiyoti",
     "type": "world",
-    "description": "",
+    "description": "Arthur Conan Doyle yaratgan Sherlock Holmes hikoyalarida maslahatgo'y detektiv Holmes va doktor Watson turli jinoyat va sirlarni kuzatuvchanlik, mantiqiy tahlil va dalillar orqali yechadi. Hikoyalar detektiv janrining eng mashhur namunalaridan hisoblanadi.",
     "api_title": "",
     "image": "https://covers.openlibrary.org/b/id/6717853-L.jpg",
     "local_image": "/books/40.jpg",
     "cover_source": "openlibrary",
-    "cover_source_url": "https://openlibrary.org/works/OL262421W"
+    "cover_source_url": "https://openlibrary.org/works/OL262421W",
+    "description_source_url": "https://www.britannica.com/topic/The-Adventures-of-Sherlock-Holmes-by-Conan-Doyle"
   },
   {
     "id": 41,
